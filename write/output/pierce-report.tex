@@ -1,7 +1,8 @@
 %
 % Authors: PN
 % Maintainers: PN
-% Copyright: 2018, UWCHR, GPL v2 or later
+% Date: 2019-01-30
+% Copyright: 2019, UWCHR, GPL v2 or later
 % ============================================
 % JailData/county/pierce/write/src/pierce-report.Rnw
 %
@@ -166,7 +167,7 @@ On the other hand, Guttin (2010) attributes the longer jail stays \emph{not} to 
 
 \section*{Methods}
 
-Under Washington state's public records law, we requested a dataset of all individuals released from any Pierce County correctional facility between the dates of October 1, 2016 and July 31, 2018. After dropping some records in the process of cleaning the data, as described below, this data set includes information regarding 29312 cases of individuals released during this period.\footnote{The individuals released during this period may have been booked during this period or prior; the earliest bookings included in the dataset occurred in 2013. This analysis does not attempt to control for multiple repeat bookings of the same individual.}
+Under Washington state's public records law, we requested a dataset of all individuals released from any Pierce County correctional facility between the dates of October 1, 2016 and July 31, 2018.\footnote{The data and code used to output this report, after processing to remove personally identifiable information, may be reviewed at \url{https://github.com/UWCHR/ice-detainers-pierce}} After dropping some records in the process of cleaning the data, as described below, this data set includes information regarding 29312 cases of individuals released during this period.\footnote{The individuals released during this period may have been booked during this period or prior; the earliest bookings included in the dataset occurred in 2013. This analysis does not attempt to control for multiple repeat bookings of the same individual.}
 
 The information includes booking and release dates; a description of each booking charge, and associated release disposition for each charge; court cause number assigned for a charge; and various demographic characteristics including gender, race, and birthplace, for each booked person. Gender is reported as a mutually-exclusive male/female binary. Race is also reported as a mutually-exclusive variable with six categories: Black, Hispanic, White, American Indian/Alaskan, Asian/Pacific Islander, and Unknown. The dataset does not differentiate between race and ethnicity.\footnote{While Beckett and Evans report that, in King County, ethnicity (specifically Hispanicity) is recorded in interviews conducted within 72 hours of booking, leading to a possible undercount of Hispanics released before this interview, data for Pierce County suggests that all race data is recorded at time of booking. Demographics of inmates released within less than 72 hours are similar to those of inmates held for longer periods. As an additional check against the possible undercounting of ethnic groups---a common challenge with institutional data involving Latinx populations---we also generated predicted race values for each inmate based on analysis of first and last names. We ran a regression using this predicted race model; it produced similar results to the regression run with Pierce County's original racial accounting.}
 

@@ -1,7 +1,8 @@
 %
 % Authors: PN
 % Maintainers: PN
-% Copyright: 2018, UWCHR, GPL v2 or later
+% Date: 2019-01-30
+% Copyright: 2019, UWCHR, GPL v2 or later
 % ============================================
 % JailData/county/pierce/write/src/pierce-report.Rnw
 %

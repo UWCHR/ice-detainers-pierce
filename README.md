@@ -1,7 +1,7 @@
 # Pierce County ICE Detainer Data
 
 Author: [@philneff](https://github.com/philneff)
-Date: January 30, 2019
+Date: 2019-01-28
 License: GPL v2 or later
 
 This project analyzes jail booking data regarding ICE and other federal holds, testing the hypothesis that ICE holds for local detainees lead to increased jail time.

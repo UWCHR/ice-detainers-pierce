@@ -1,9 +1,9 @@
 #
-# :date: 2018-08-10
+# :date: 2018-01-28
 # :author: PN
 # :copyright: GPL v2 or later
 #
-# JailData/county/pierce/charges/src/charges.py
+# ice-detainers-pierce/charges/src/charges.py
 #
 #
 
@@ -11,7 +11,6 @@ import argparse
 import pandas as pd
 import sys
 import yaml
-import logging
 if sys.version_info[0] < 3:
     raise "Must be using Python 3"
 

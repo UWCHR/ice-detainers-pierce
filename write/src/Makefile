@@ -1,9 +1,10 @@
 #
 # Authors:     PN
 # Maintainers: PN
-# Copyright:   2018, UWCHR, GPL v2 or later
+# Date: 2019-01-28
+# Copyright:   UWCHR, GPL v2 or later
 # ============================================
-# JailData/county/pierce/write/src/Makefile
+# ice-detainers-pierce/write/src/Makefile
 
 .PHONY: all clean
 

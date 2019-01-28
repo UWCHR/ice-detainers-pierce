@@ -1,11 +1,9 @@
-# :date: 2018-12-10
+# :date: 2018-01-28
 # :author: PN
 # :copyright: GPL v2 or later
 #
-# JailData/county/pierce/analyze/src/analyze.py
+# ice-detainers-pierce/analyze/src/analyze.py
 #
-#
-# import __main__ as main
 
 import argparse
 import pandas as pd

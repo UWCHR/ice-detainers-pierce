@@ -1,8 +1,8 @@
-# :date: 2018-08-13
+# :date: 2018-01-28
 # :author: PN
 # :copyright: GPL v2 or later
 #
-# JailData/county/pierce/bail/src/bail.py
+# ice-detainers-pierce/bail/src/bail.py
 #
 #
 import argparse

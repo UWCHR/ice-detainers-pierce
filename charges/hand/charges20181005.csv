@@ -1,0 +1,604 @@
+,jurisdiction,booking_charge_desc,charge_count,seriousness,category,type,magda notes,notes,rcw,src
+480,pierce,DWLS/DWLR,5602,,misdemeanor,public order,could be gross misd,can by gross misdemeanor,46.20.342,http://app.leg.wa.gov/rcw/default.aspx?cite=46.20.342
+224,pierce,COMM CUSTODY JAIL,5025,,other,other,,other?,,
+1621,pierce,UPCS,4489,,class C felony,drug,,,69.50.401,http://app.leg.wa.gov/rcw/default.aspx?cite=69.50.401
+475,pierce,DWI,3718,,gross misdemeanor,public order,,,46.61.502,http://app.leg.wa.gov/rcw/default.aspx?cite=46.61.502
+62,pierce,ASSAULT 4 /DV,2711,,class C felony,violent,could be gross misdemeanor,,9A.36.041,http://app.leg.wa.gov/rcw/default.aspx?cite=9A.36.041
+1418,pierce,THEFT 3,2443,,gross misdemeanor,property,,,9A.56.050,http://apps.leg.wa.gov/RCW/default.aspx?cite=9A.56.050
+286,pierce,CRIM ASLT /DV,2004,,class C felony,violent,ambiguous,based on assult in 4th degree + dv,9A.36.041,http://app.leg.wa.gov/rcw/default.aspx?cite=9A.36.041
+1674,pierce,VIO NC ORD /DV,1786,,gross misdemeanor,public order,could be class C- ambiguous,,26.50.110,http://app.leg.wa.gov/rcw/default.aspx?cite=26.50.110
+1120,pierce,POSSESS STOLEN VEHICLE,1739,,class B felony,property,,,9a.56.068,http://app.leg.wa.gov/RCW/default.aspx?cite=9a.56.068
+1420,pierce,THEFT 3RD,1538,,gross misdemeanor,property,,,9A.56.050,http://apps.leg.wa.gov/RCW/default.aspx?cite=9A.56.050
+434,pierce,DRUG PARA,1388,,misdemeanor,drug,,,69.50.412,https://app.leg.wa.gov/rcw/default.aspx?cite=69.50.412
+988,pierce,OBSTR PO,1176,,gross misdemeanor,public order,,,9A.76.020,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.76.020
+1159,pierce,PROBAT HLD,1124,,other,other,,,,
+164,pierce,BURGLARY 2,1095,,class B felony,property,,,9a.52.030,http://apps.leg.wa.gov/rcw/default.aspx?cite=9a.52.030
+295,pierce,CRIM TRESP,875,,gross misdemeanor,property,can be simple misdemeanor,,,
+1626,pierce,UPCS W INTENT,870,,class C felony,drug,,,69.50.401,http://app.leg.wa.gov/rcw/default.aspx?cite=69.50.401
+1417,pierce,THEFT 2,862,,class C felony,property,,,9A.56.040.1A,http://app.leg.wa.gov/RCW/default.aspx?cite=9A.56.040.1A
+877,pierce,MAL MISC 3 /DV,846,,gross misdemeanor,property,,,9A.48.090.2b%20DV,http://app.leg.wa.gov/RCW/default.aspx?cite=9A.48.090.2b%20DV
+630,pierce,FORGERY,839,,class C felony,public order,,,9A.60.020,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.60.020
+485,pierce,DWLS/R 1ST/2ND,835,,gross misdemeanor,public order,,,46.20.342,http://app.leg.wa.gov/rcw/default.aspx?cite=46.20.342
+743,pierce,IDENT THFT 2,794,,class C felony,public order,,,9.35.020,http://app.leg.wa.gov/rcw/default.aspx?cite=9.35.020
+1238,pierce,RECK DRV,747,,gross misdemeanor,public order,,,46.61.500,http://app.leg.wa.gov/RCW/default.aspx?cite=46.61.500
+1289,pierce,RES BURGLARY,724,,class B felony,property,,,9A.52.025,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.52.025
+1291,pierce,RESIST ARR,710,,misdemeanor,public order,,,9A.76.040,http://apps.leg.wa.gov/rcw/default.aspx?cite=9A.76.040
+1023,pierce,OPERATE VEH W/O IGN INTERLOCK DEV,699,,gross misdemeanor,public order,,,46.20.740,http://app.leg.wa.gov/rcw/default.aspx?cite=46.20.740
+1678,pierce,VIO PROT OR /DV,676,,gross misdemeanor,public order,could be Class C ambiguous,,26.50.110,http://app.leg.wa.gov/rcw/default.aspx?cite=26.50.110
+883,pierce,MAL MISCH 3,671,,gross misdemeanor,property,,,9A.48.090.2b%20DV,http://app.leg.wa.gov/RCW/default.aspx?cite=9A.48.090.2b%20DV
+586,pierce,FALSE STATEMENT TO PUB SERVANT,661,,gross misdemeanor,public order,,,9A.76.175,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.76.175
+45,pierce,ASLT 2 -DV,660,,class B felony,violent,,not sure if DV changes seriousness?,9A.36.021,http://apps.leg.wa.gov/rcw/default.aspx?cite=9A.36.021
+46,pierce,ASLT 3,647,,class C felony,violent,,,9a.36.031,http://apps.leg.wa.gov/rcw/default.aspx?cite=9a.36.031
+466,pierce,DUI WITH PRIOR CONVICTION,646,,class B felony,public order,could be gross misd.,drug?,46.61.502,http://app.leg.wa.gov/rcw/default.aspx?cite=46.61.502
+44,pierce,ASLT 2,641,,class B felony,violent,,,9A.36.021,http://apps.leg.wa.gov/rcw/default.aspx?cite=9A.36.021
+990,pierce,OBSTR PUB SERV,629,,misdemeanor,public order,gross misd,,9.46.195,https://app.leg.wa.gov/rcw/default.aspx?cite=9.46.195
+1176,pierce,PSP 2,620,,class C felony,property,,,9A.56.160,http://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.160
+1564,pierce,UNL POSS FIREARM 1,613,,class B felony,public order,,,9.41.040,http://app.leg.wa.gov/rcw/default.aspx?cite=9.41.040
+48,pierce,ASLT 4,611,,gross misdemeanor,violent,,,9A.36.041,http://apps.leg.wa.gov/rcw/default.aspx?cite=9A.36.041
+603,pierce,FEL PUR/ELUDE,569,,class C felony,public order,,,46.61.024,https://app.leg.wa.gov/rcw/default.aspx?cite=46.61.024
+297,pierce,CRIM TRESP 1,533,,gross misdemeanor,property,,,9A.52.070,http://apps.leg.wa.gov/RCW/default.aspx?cite=9A.52.070
+884,pierce,MAL MISCH 3 /DV,488,,gross misdemeanor,property,,,9A.48.090.2b%20DV,http://app.leg.wa.gov/RCW/default.aspx?cite=9A.48.090.2b%20DV
+1565,pierce,UNL POSS FIREARM 2,459,,class C felony,public order,,,9.41.040,http://app.leg.wa.gov/rcw/default.aspx?cite=9.41.040
+304,pierce,CRIMINAL ASLT,456,,gross misdemeanor,violent,ambiguous could be felony,not sure what to do with these general versions of other crimes,,
+1532,pierce,TRAFFICKING STOL PROP 1,447,,class B felony,property,,,9A.82.050,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.82.050
+299,pierce,CRIM TRESP 2,439,,misdemeanor,property,,,9A.52.080,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.52.080
+599,pierce,"FEL HARASS-DV, DV-THREATS/DEATH THRT",411,,class C felony,violent,,,9a.46.020,http://apps.leg.wa.gov/RCW/default.aspx?cite=9a.46.020
+1453,pierce,THEFT OF MV,410,,class B felony,property,,,9A.56.065,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.065
+598,pierce,FEL HARASS (NON DV),395,,class C felony,violent,,,9a.46.020,http://apps.leg.wa.gov/RCW/default.aspx?cite=9a.46.020
+1319,pierce,ROBBERY 1,383,,class A felony,violent,,categorized as violent due to robbery's requirement of force and intimidation,9A.56.200,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.200
+653,pierce,FUGITIVE,373,,other,other,,,,
+793,pierce,INTERFERE W/ RPT /DV,333,,gross misdemeanor,public order,,,9A.36.150,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.36.150
+1320,pierce,ROBBERY 2,326,,class B felony,violent,,,9A.56.210,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.210
+1648,pierce,VEH PROWL,322,,class C felony,property,,,9a.52.100,http://app.leg.wa.gov/rcw/default.aspx?cite=9a.52.100
+1572,pierce,UNLAW DEL CS,320,,class C felony,drug ,,,69.50.401,http://app.leg.wa.gov/rcw/default.aspx?cite=69.50.401
+597,pierce,FEL DV CRT ORD VIO,318,,class C felony,violent,ambiguous; could be gross misd,felony assumes prior convictions of individual or violent intent of violation ,26.50.110,http://app.leg.wa.gov/rcw/default.aspx?cite=26.50.110
+531,pierce,FAIL REGIS S/O,314,,class C felony,public order,,,9A.44.132,http://app.leg.wa.gov/rcw/default.aspx?cite=9A.44.132
+734,pierce,HOLD WSI,312,,other,other,,,,
+42,pierce,ASLT 1,305,,class A felony,violent,,,9A.36.011,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.36.011
+1414,pierce,THEFT 1,297,,class B felony,property,,,9a.56.030,http://app.leg.wa.gov/rcw/default.aspx?cite=9a.56.030
+881,pierce,MAL MISCH 2,273,,class B felony,property,,,9A.48.080,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.48.080
+979,pierce,NON-SUPPORT,261,,gross misdemeanor,public order,I think this is civil-- failure to pay child support,,26.20.035,https://app.leg.wa.gov/rcw/default.aspx?cite=26.20.035
+757,pierce,ILL DRUG COND/PARA,254,,civil infraction,drug,could be simple misd,,69.50.4121,https://app.leg.wa.gov/rcw/default.aspx?cite=69.50.4121
+507,pierce,ENTRY ERROR,244,,other,other,,,,
+955,pierce,MTR VEH TRANSFER OF OWNERSHIP VIOL,244,,misdemeanor,property,,I think it might be a class C felony based on the RCW but the charge name is so broad its hard to tell if it fits,46.12.750,https://app.leg.wa.gov/rcw/default.aspx?cite=46.12.750
+1177,pierce,PSP 3,243,,gross misdemeanor,property,,,9A.56.170,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.170
+1290,pierce,RESIS ARR,235,,misdemeanor,public order,,,9A.76.040,http://apps.leg.wa.gov/rcw/default.aspx?cite=9A.76.040
+56,pierce,ASLT/DV,231,,class C felony,violent,ambiguous,ambiguous,9A.36.041,http://app.leg.wa.gov/rcw/default.aspx?cite=9A.36.041
+366,pierce,DEST PROP /DV,224,,gross misdemeanor,public order,,"? malicious mischief refers to property damage, but 3 levels",,
+163,pierce,BURGLARY 1,218,,class A felony,property,,,9A.52.020,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.52.020
+728,pierce,HOLD IMMIGRAT,204,,other,other,,,,
+689,pierce,HARASSMENT /DV,200,,class C felony,violent,ambiguous ,,9a.46.020,http://apps.leg.wa.gov/RCW/default.aspx?cite=9a.46.020
+1095,pierce,POSS OF A STOLEN FIREARM,194,,class B felony,property,,,9A.56.310,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.310
+1241,pierce,RECK ENDANGER,190,,gross misdemeanor,public order,,,9a.36.050,http://app.leg.wa.gov/RCW/default.aspx?cite=9a.36.050
+742,pierce,IDENT THFT 1,183,,class B felony,public order,,,9.35.020,http://app.leg.wa.gov/rcw/default.aspx?cite=9.35.020
+961,pierce,NEG DRIVING,183,,misdemeanor,public order,,can range from civil infraction to misdemeanor if its 1st or 2nd degree,46.61.525,https://app.leg.wa.gov/rcw/default.aspx?cite=46.61.525
+137,pierce,BAIL JUMP,179,,other,public order,,depends on crime person jumped bail for,9A.76.170,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.76.170
+1107,pierce,POSS. MOTOR VEHICLE  THEFT TOOLS,178,,gross misdemeanor,property,,,9A.56.063,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.063
+991,pierce,OBSTR-FALSE CHRG/STATEMENTS,173,,gross misdemeanor,public order,,,9A.76.175,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.76.175
+1022,pierce,OPER VEH. W/O IGNITION INTERLOCK,170,,gross misdemeanor,public order,,,46.20.740,http://app.leg.wa.gov/rcw/default.aspx?cite=46.20.740
+1083,pierce,POSS DANG WEAPON,167,,gross misdemeanor,public order,,,9.41.250,http://app.leg.wa.gov/RCW/default.aspx?cite=9.41.250
+1507,pierce,TMVWOP 2,159,,class C felony,property,,,9A.56.075,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.075
+1644,pierce,VEH ASLT,155,,class B felony,violent,,,46.61.522,http://app.leg.wa.gov/rcw/default.aspx?cite=46.61.522
+668,pierce,HARASS  /DV,151,,class C felony,violent,ambiguous; could be misd. ,,9a.46.020,http://apps.leg.wa.gov/RCW/default.aspx?cite=9a.46.020
+651,pierce,FTR ACC (PROP),144,,gross misdemeanor,public order,could be simple misd. ,,,
+1568,pierce,UNL TRANSIT COND,141,,misdemeanor,public order,,,9.91.025,http://app.leg.wa.gov/rcw/default.aspx?cite=9.91.025
+43,pierce,ASLT 1 / DV,140,,class A felony,violent,,not sure if DV changes seriousness?,9A.36.011,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.36.011
+465,pierce,DUI W/ PRIOR CONVICTION,139,,class B felony,public order,could be gross misd.,drug?,46.61.502,http://app.leg.wa.gov/rcw/default.aspx?cite=46.61.502
+650,pierce,FTR ACC (INJ),138,,class C felony,public order,,FTR seems to = failure to respond ,,
+200,pierce,CHILD MOLEST 1,136,,class A felony,sex,,,9A.44.083,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.44.083
+732,pierce,HOLD US MARSHAL,135,,other,other,,,,
+1575,pierce,UNLAW IMPRISON,132,,class C felony,violent,,,9A.40.040,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.40.040
+717,pierce,HIT/RUN UNATT,130,,misdemeanor,property,,,46.52.010,https://app.leg.wa.gov/rcw/default.aspx?cite=46.52.010
+1025,pierce,ORGANIZED RETAIL THEFT 2 ND,129,,class C felony,property,,,9A.56.350,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.350
+514,pierce,ESCAPE COMMUNITY CUSTODY,128,,class C felony,public order,,,72.09.310,https://app.leg.wa.gov/rcw/default.aspx?cite=72.09.310
+1175,pierce,PSP 1,127,,class B felony,property,,PSP=possession stolen property ,9A.56.150,http://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.150
+982,pierce,NVOL,125,,misdemeanor,public order,,?,46.20.005,http://apps.leg.wa.gov/rcw/default.aspx?cite=46.20.005
+674,pierce,HARASSMENT,124,,class C felony,violent,ambiguous,,9a.46.020,http://apps.leg.wa.gov/RCW/default.aspx?cite=9a.46.020
+714,pierce,HIT/RUN ATT,120,,gross misdemeanor,public order,,,46.52.020,https://app.leg.wa.gov/rcw/default.aspx?cite=46.52.020
+872,pierce,MAKE POSSESS MTR VEH THFT TOOLS,119,,gross misdemeanor,property,,,9A.56.063,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.063
+217,pierce,CIVIL DRG CRT VIOL,114,,other,public order,other,?,,
+209,pierce,CHILD RAPE 1,110,,class A felony,sex,,,9A.44.073.,http://apps.leg.wa.gov/rcw/default.aspx?cite=9A.44.073.
+1538,pierce,TRESPASS 2,109,,misdemeanor,property,,,9A.52.080,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.52.080
+1680,pierce,VIO TRIP PERMIT,109,,gross misdemeanor,public order,probably simple misd,,46.16A.320,http://app.leg.wa.gov/rcw/default.aspx?cite=46.16A.320
+1081,pierce,POSS BURG TOOL,105,,gross misdemeanor,property,,,9A.52.060,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.52.060
+946,pierce,MINOR POSS LIQ,103,,misdemeanor,public order,probably gross misd,,46.61.503,http://app.leg.wa.gov/rcw/default.aspx?cite=46.61.503
+382,pierce,DISO PERS/CONDUCT,99,,misdemeanor,public order,,,9A.84.030,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.84.030
+572,pierce,FALSE INFO,99,,gross misdemeanor,public order,,,77.15.270,http://apps.leg.wa.gov/rcw/default.aspx?cite=77.15.270
+1075,pierce,PHYSICAL CNTRL,96,,gross misdemeanor,public order,,,http://app.leg.wa.gov/rcw/supdefault.aspx?cite=46.61.504,http://app.leg.wa.gov/rcw/supdefault.aspx?cite=46.61.504
+370,pierce,DESTRUCTION OF PROP,94,,gross misdemeanor,public order,,"? malicious mischief refers to property damage, but 3 levels",,
+882,pierce,MAL MISCH 2 / DV,94,,class B felony,property,,,9A.48.080,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.48.080
+1533,pierce,TRAFFICKING STOL PROP 2,92,,class C felony,property,,,9A.82.055,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.82.055
+880,pierce,MAL MISCH 1,87,,class B felony,property,,,9A.48.070,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.48.070
+1317,pierce,RETAIL THFT W/EXT CIRCUMSTANCES 3,86,,class C felony,property,,,9A.56.360,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.360
+1657,pierce,VEHICLE PROWL 2ND,85,,class C felony,property,,,9a.52.100,http://app.leg.wa.gov/rcw/default.aspx?cite=9a.52.100
+415,pierce,DRIVE BY SHOOTING,82,,class B felony,violent,,,9A.36.045,http://app.leg.wa.gov/rcw/default.aspx?cite=9A.36.045
+1496,pierce,THFT OF FIREARM (B),81,,class B felony,property,,,9A.56.300,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.300
+318,pierce,CRIMINAL SOLICITATION,78,,other,other,,see criminal attempt,9A.28.040,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.28.040
+715,pierce,HIT/RUN ATTND-DAMAGE ONLY,77,,gross misdemeanor,property,,,46.52.020,https://app.leg.wa.gov/rcw/default.aspx?cite=46.52.020
+216,pierce,CIVIL CNTMPT OF CRT,75,,misdemeanor,public order,?? I'm not sure if this is always a misdemeanor,up to judge,7.21,http://apps.leg.wa.gov/RCW/default.aspx?cite=7.21&full=true
+1080,pierce,POSS ANOTHER'S ID,75,,gross misdemeanor,public order,,,9A.56.330,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.330
+397,pierce,DISPLAY WEAPON,74,,gross misdemeanor,public order,,,9.41.270,http://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.270
+1419,pierce,THEFT 3  /DV,73,,gross misdemeanor,property,,,9A.56.050,http://apps.leg.wa.gov/RCW/default.aspx?cite=9A.56.050
+1082,pierce,POSS BURG TOOLS,72,,gross misdemeanor,property,,,9A.52.060,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.52.060
+58,pierce,ASLT/VIO NC ORDER,71,,class C felony,violent,,,26.50.110,http://app.leg.wa.gov/rcw/default.aspx?cite=26.50.110
+511,pierce,ESCAPE 1,71,,class B felony,public order,,,9A.76.110,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.76.110
+1557,pierce,UMCS,70,,class C felony,drug,,UMCS=unlawful manufacturing of controlled substance,69.50.401,http://app.leg.wa.gov/rcw/default.aspx?cite=69.50.401
+1685,pierce,VIOL COURT ORD /DV,70,,gross misdemeanor,public order,,,26.50.110,http://app.leg.wa.gov/rcw/default.aspx?cite=26.50.110
+729,pierce,HOLD MAT WITNESS,69,,other,other,,,,
+985,pierce,NVOL WITHOUT ID,68,,misdemeanor,public order,,?,46.20.005,http://apps.leg.wa.gov/rcw/default.aspx?cite=46.20.005
+1239,pierce,RECK ENDAN /DV,65,,gross misdemeanor,public order,,,9a.36.050,http://app.leg.wa.gov/RCW/default.aspx?cite=9a.36.050
+605,pierce,FELONY DUI,64,,class B felony,public order,,felony DUI only triggered by other actions/descriptors of the DUI,46.61.502,http://app.leg.wa.gov/rcw/default.aspx?cite=46.61.502
+1094,pierce,POSS MARIJUANA - 40 GRAMS OR LESS,62,,misdemeanor,drug,,,69.50.4014,https://app.leg.wa.gov/rcw/default.aspx?cite=69.50.4014
+1722,pierce,VUCSA CONSPIRACY,61,,class C felony,drug,,assume class C felony as with other UCSA crimes ,69.50.401,http://app.leg.wa.gov/rcw/default.aspx?cite=69.50.401
+652,pierce,FTR INJ ACC,60,,class C felony,public order,,,,
+1633,pierce,UU BLDG DRUGS,57,,class C felony,drug,,,69.53.010,http://app.leg.wa.gov/rcw/default.aspx?cite=69.53.010
+201,pierce,CHILD MOLEST 2,55,,class B felony,sex,,,9A.44.086,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.44.086
+300,pierce,CRIM TRSP 1 /DV,54,,gross misdemeanor,property,,,9A.52.070,http://apps.leg.wa.gov/RCW/default.aspx?cite=9A.52.070
+609,pierce,FINANCIAL FRAUD-UNL POSS PROD/INST,53,,class C felony,public order,,,9A.56.320,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.320
+670,pierce,HARASS/THREATEN BOD. INJ,53,,class C felony,violent,gross misd. not felony,,9a.46.020,http://apps.leg.wa.gov/RCW/default.aspx?cite=9a.46.020
+773,pierce,IND COND/EXPOS,53,,misdemeanor,sex,,,9A.88.010,http://apps.leg.wa.gov/RCW/default.aspx?cite=9A.88.010
+210,pierce,CHILD RAPE 2,52,,class A felony,sex,,,9a.44.076,http://apps.leg.wa.gov/rcw/default.aspx?cite=9a.44.076
+862,pierce,LPDA,52,,unknown,other,,no idea what this stands for ,,
+1174,pierce,PSP,52,,gross misdemeanor/class B felony,property,ambiguous,see PSP charges above,,
+1242,pierce,RECK ENDANGERMENT,52,,gross misdemeanor,public order,,,9a.36.050,http://app.leg.wa.gov/RCW/default.aspx?cite=9a.36.050
+1200,pierce,RAPE 2,51,,class A felony,sex,,,9A.44.050,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.44.050
+548,pierce,FAIL TO STOP AND GIVE INFO,49,,misdemeanor,public order,,contained within failure to obey/comply,46.61.022,https://app.leg.wa.gov/rcw/default.aspx?cite=46.61.022
+1090,pierce,POSS LEG. DRUG/PROHIBITED ACT,48,,misdemeanor,drug,,,69.41.030,http://app.leg.wa.gov/rcw/default.aspx?cite=69.41.030
+1170,pierce,PROST,47,,misdemeanor,sex,,,9A.88.030,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.88.030
+1398,pierce,TAMP WITNESS,47,,class C felony,public order,,,9A.72.120,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.72.120
+725,pierce,HOLD COMM CUSTODY,44,,other,other,,,,
+730,pierce,HOLD MISC,44,,other,other,,,,
+731,pierce,HOLD REMANN HALL,44,,other,other,,,,
+956,pierce,MURDER 1,44,,class A felony,violent,,,9A.32.030,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.32.030
+830,pierce,JUVENILE PAROLE HLD,43,,other,other,,,,
+9,pierce,AIM/DISCHARGE FIREARM,42,,gross misdemeanor,violent,,public order?,9.41.230,http://app.leg.wa.gov/rcw/default.aspx?cite=9.41.230
+223,pierce,COM. W/MINOR FOR IMMORAL PURPOSE,42,,gross misdemeanor,sex,can be a class C felony depending on circumstnaces,can be felony if previous sexual offender,9.68a.090,http://apps.leg.wa.gov/rcw/default.aspx?cite=9.68a.090
+1020,pierce,OPER VEH W/O IGNITION INTERLOCK DEV,42,,gross misdemeanor,public order,,,46.20.740,http://app.leg.wa.gov/rcw/default.aspx?cite=46.20.740
+1084,pierce,POSS DANGEROUS WPN,42,,gross misdemeanor,public order,,,9.41.250,http://app.leg.wa.gov/RCW/default.aspx?cite=9.41.250
+1085,pierce,POSS DEP MIN ENG SEX EXP CONDUCT,42,,class B felony,sex,,,9.68A.070,https://app.leg.wa.gov/rcw/default.aspx?cite=9.68A.070
+333,pierce,CUST ASLT,41,,class C felony,violent,,,9A.36.100,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.36.100
+512,pierce,ESCAPE 2,41,,class C felony,public order,,,9A.76.120,http://app.leg.wa.gov/rcw/default.aspx?cite=9A.76.120
+1567,pierce,UNL SOL TO POSS CONT SUB,41,,class C felony,public order,,solicitation not mentioned in controlled substances act ,69.50.401,http://app.leg.wa.gov/rcw/default.aspx?cite=69.50.401
+211,pierce,CHILD RAPE 3,40,,class C felony,sex,,,9a.44.079,http://apps.leg.wa.gov/rcw/default.aspx?cite=9a.44.079
+288,pierce,CRIM IMPERSON 1,40,,class C felony,public order,,,9A.60.040,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.60.040
+840,pierce,KIDNAPPING 1,40,,class A felony,violent,,,9A.40.020,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.40.020
+1337,pierce,SEX OFFENDER / NON FELON FAIL REG.,40,,gross misdemeanor,public order,,,9A.44.132,http://app.leg.wa.gov/rcw/default.aspx?cite=9A.44.132
+1369,pierce,SOL PROST,40,,misdemeanor,public order,,,9A.88.110,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.88.110
+470,pierce,DUTY ON STRIKING PROPERTY,39,,misdemeanor,public order,,,46.52.010,https://app.leg.wa.gov/rcw/default.aspx?cite=46.52.010
+1167,pierce,PROM PROST 2,39,,class C felony,sex,,,9A.88.080,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.88.080
+136,pierce,AUTO THFT TOOLS,38,,gross misdemeanor,property,,,9A.56.063,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.063
+562,pierce,FAILURE TO HAVE IGNITION INTERLOCK,38,,gross misdemeanor,public order,,,46.20.740,http://app.leg.wa.gov/rcw/default.aspx?cite=46.20.740
+868,pierce,MAIL THEFT,38,,class C felony,property,,,9A.56.370,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.370
+957,pierce,MURDER 2,38,,class A felony,violent,,,9A.32.050,http://apps.leg.wa.gov/rcw/default.aspx?cite=9A.32.050
+52,pierce,ASLT CHILD 2ND,37,,class B felony,violent,,,9A.36.130,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.36.130
+607,pierce,FIGHT IN PUB,37,,misdemeanor,violent,,assume its covered under misdemeanor disorderly conduct but unclear,9A.84.030,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.84.030
+772,pierce,IND COND EXPOS,36,,misdemeanor,sex,,,9A.88.010,http://apps.leg.wa.gov/RCW/default.aspx?cite=9A.88.010
+806,pierce,INTIM WEAPON,35,,gross misdemeanor,violent,,,9.41.280,http://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.280
+775,pierce,IND LIB,34,,class B felony,sex,,,9a.44.100,http://app.leg.wa.gov/rcw/default.aspx?cite=9a.44.100
+848,pierce,LEGEND DRUG- POSS NO PRESC,34,,misdemeanor,drug,,,69.41.030,http://app.leg.wa.gov/rcw/default.aspx?cite=69.41.030
+876,pierce,MAL HARASSMENT,34,,class C felony,violent ,,,9a.36.080,http://apps.leg.wa.gov/RCW/default.aspx?cite=9a.36.080
+1745,pierce,WEAPONS-UNL CARRY/SELL,34,,unknown,public order,,no charge found ,9.41.040,http://app.leg.wa.gov/RCW/default.aspx?cite=9.41.040
+53,pierce,ASLT CHILD 3RD,33,,class C felony,violent,,,9A.36.140,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.36.140
+879,pierce,MAL MISCH,32,,class B felony,property,ambiguous,see above degrees for information ,,
+601,pierce,FEL POSS DANGEROUS WEAPON,31,,gross misdemeanor,public order,,RCW says this would be a gross misdemeanor but the charge name implies felony ,9.41.040,http://app.leg.wa.gov/rcw/default.aspx?cite=9.41.040
+1073,pierce,PHYS CONTROL,31,,gross misdemeanor,public order,,,http://app.leg.wa.gov/rcw/supdefault.aspx?cite=46.61.504,http://app.leg.wa.gov/rcw/supdefault.aspx?cite=46.61.504
+202,pierce,CHILD MOLEST 3,30,,class C felony,sex,,,9A.44.089,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.44.089
+296,pierce,CRIM TRESP /DV,30,,gross misdemeanor,property,can be simple misd.,,,
+387,pierce,DISORDERLY CONDUCT,30,,misdemeanor,public order,,,9A.84.030,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.84.030
+1316,pierce,RETAIL THFT W/EXT CIRCUMSTANCES 2,30,,class C felony,property,,,9A.56.360,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.360
+1576,pierce,UNLAW POS PAY INSTR,30,,class C felony,public order,,,9A.56.320,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.320
+1580,pierce,UNLAWFUL BUS CONDUCT,30,,misdemeanor,public order,,,9.91.025,http://app.leg.wa.gov/rcw/default.aspx?cite=9.91.025
+47,pierce,ASLT 3 / DV,27,,class C felony,violent,,not sure if DV changes seriousness?,9a.36.031,http://apps.leg.wa.gov/rcw/default.aspx?cite=9a.36.031
+984,pierce,NVOL W/O ID,27,,misdemeanor,public order,,?,46.20.005,http://apps.leg.wa.gov/rcw/default.aspx?cite=46.20.005
+1645,pierce,VEH HOMICIDE,27,,class A felony,violent,,,46.61.520,http://app.leg.wa.gov/rcw/default.aspx?cite=46.61.520
+36,pierce,ARSON 2,26,,class B felony,property,,,9A.48.030,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.48.030
+192,pierce,CARRYING A FIREARM - NO PERMIT,26,,civil infraction,public order,,?,9.41.050,http://app.leg.wa.gov/rcw/default.aspx?cite=9.41.050
+301,pierce,CRIM TRSP 2 /DV,26,,misdemeanor,property,,,9A.52.080,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.52.080
+1110,pierce,POSSESS CNTRL SUBS-PENALTY,26,,class C felony,drug,,,69.50.4013,http://app.leg.wa.gov/rcw/default.aspx?cite=69.50.4013
+523,pierce,EXPOSE MINOR TO DV,25,,gross misdemeanor,public order,,Auburn WA Statute ,http://www.codepublishing.com/WA/Auburn/html/Auburn09/Auburn0926.html,http://www.codepublishing.com/WA/Auburn/html/Auburn09/Auburn0926.html
+1092,pierce,POSS LGND DRUG-NO PRESCRIPTION,25,,misdemeanor,drug,could be felony,,69.41.030,http://app.leg.wa.gov/rcw/default.aspx?cite=69.41.030
+1506,pierce,TMVWOP 1,25,,class B felony,property,,TMWWOP=Taking Motor Vehicle WithOut Permission,9A.56.070,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.070
+1693,pierce,VIOL OF SENTENCE/NCO DV,25,,gross misdemeanor,public order,looks like a probation violation,,26.50.110,http://app.leg.wa.gov/rcw/default.aspx?cite=26.50.110
+196,pierce,CCW,24,,civil infraction,public order,,?,9.41.050,http://app.leg.wa.gov/rcw/default.aspx?cite=9.41.050
+513,pierce,ESCAPE 3,24,,misdemeanor,public order,,can be gross misdemeanor or class C felony if priors,9A.76.130,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.76.130
+1067,pierce,PETTY THEFT /DV,24,,misdemeanor,property,,"theft in 3rd degree is considered ""petty theft"" according to the internet",9A.56.050,http://apps.leg.wa.gov/RCW/default.aspx?cite=9A.56.050
+1150,pierce,POSSESSION OF STOLEN MAIL,24,,class C felony,property,,,9A.56.380,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.380
+474,pierce,DV CT ORD VIO 2X CONVICTIONS,23,,class C felony,public order,,,26.50.110,http://app.leg.wa.gov/rcw/default.aspx?cite=26.50.110
+804,pierce,INTIM W/ A WEAPON,23,,gross misdemeanor,violent,,,9.41.280,http://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.280
+805,pierce,INTIM W/WPN /DV,23,,gross misdemeanor,violent,,,9.41.280,http://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.280
+1024,pierce,ORGANIZED RETAIL THEFT 1,23,,class B felony,property,,,9A.56.350,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.350
+1115,pierce,POSSESS DRUG PARAPHERNALIA,23,,misdemeanor,drug,,,69.50.412,https://app.leg.wa.gov/rcw/default.aspx?cite=69.50.412
+1660,pierce,VEHICLE PROWLING 2ND DEGREE,23,,class C felony,property,,,9a.52.100,http://app.leg.wa.gov/rcw/default.aspx?cite=9a.52.100
+35,pierce,ARSON 1,22,,class A felony,property,,violent?,9A.48.020,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.48.020
+1079,pierce,POS WPN CAUSE HARM,22,,class C felony,violent,,,9.41.040,http://app.leg.wa.gov/rcw/default.aspx?cite=9.41.040
+1199,pierce,RAPE 1,22,,class A felony,sex,,,9A.44.040,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.44.040
+1201,pierce,RAPE 3,22,,class C felony,sex,,,9A.44.060,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.44.060
+1373,pierce,STALKING,21,,gross misdemeanor,public order,,,9A.46.110,http://apps.leg.wa.gov/RCW/default.aspx?cite=9A.46.110
+1555,pierce,UIBC,21,,gross misdemeanor/class C felony,property,,charge severity depends on amount check is worth UIBC=unlawful issuance of bank check ,9A.56.060,http://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.060
+1629,pierce,URINATING IN PUBLIC,21,,civil infraction,public order,,,http://www.codepublishing.com/WA/Pacific/html/Pacific09/Pacific0926.html,http://www.codepublishing.com/WA/Pacific/html/Pacific09/Pacific0926.html
+433,pierce,DRUG LOITERING PROHIBITED,20,,misdemeanor,public order,,Pierce Co citing RCW,http://www.codepublishing.com/WA/PierceCounty/html/PierceCounty09/PierceCounty0920.html#9.20.040,http://www.codepublishing.com/WA/PierceCounty/html/PierceCounty09/PierceCounty0920.html#9.20.040
+606,pierce,FELONY STALKING,20,,class B felony,violent,,,9a.46.110,http://apps.leg.wa.gov/rcw/default.aspx?cite=9a.46.110
+841,pierce,KIDNAPPING 2,20,,class B felony,violent,,,9A.40.030,http://app.leg.wa.gov/rcw/default.aspx?cite=9A.40.030
+895,pierce,MALICIOUS HARASSMENT,20,,class C felony,violent ,,,9a.36.080,http://apps.leg.wa.gov/RCW/default.aspx?cite=9a.36.080
+930,pierce,MIN OPER VEH/ALC CONS,20,,misdemeanor,public order,,,46.61.503,http://app.leg.wa.gov/rcw/default.aspx?cite=46.61.503
+1634,pierce,UUW,20,,civil infraction,public order,,"unlawful use of weapon, unlawful but charge not specified ",7.48.155,http://app.leg.wa.gov/RCW/default.aspx?cite=7.48.155
+1688,pierce,VIOL N/C ORDER,20,,gross misdemeanor,public order,could be class C,,26.50.110,http://app.leg.wa.gov/rcw/default.aspx?cite=26.50.110
+1696,pierce,VIOL PROT ORD - NON DV,20,,gross misdemeanor,public order,,,26.50.110,http://app.leg.wa.gov/rcw/default.aspx?cite=26.50.110
+131,pierce,ATT MURDER 1,19,,class A felony,violent,,see criminal attempt RCW,9A.28.020,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.28.020
+306,pierce,CRIMINAL ATTEMPT,19,,other,other,,depends on nature of crime,9A.28.040,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.28.040
+376,pierce,DISCH FIREARM,19,,gross misdemeanor,public order,,,9.41.230,http://app.leg.wa.gov/rcw/default.aspx?cite=9.41.230
+989,pierce,OBSTR PO /DV,19,,gross misdemeanor,public order,,,9A.76.020,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.76.020
+1682,pierce,VIOL CIV ANTI-HAR ORDER,19,,gross misdemeanor,public order,,,26.50.110,http://app.leg.wa.gov/rcw/default.aspx?cite=26.50.110
+1721,pierce,VOYEURISM -1 (C),19,,class C felony,sex,,,9A.44.115,http://apps.leg.wa.gov/RCW/default.aspx?cite=9A.44.115
+140,pierce,BAIL JUMPING,18,,other,public order,,depends on crime person jumped bail for,9A.76.170,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.76.170
+790,pierce,INTERF W/REPORT / DV,18,,gross misdemeanor,public order,,,9A.36.150,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.36.150
+940,pierce,MINOR INTOX IN PUB,18,,gross misdemeanor,public order,,,66.44.270,http://apps.leg.wa.gov/rcw/default.aspx?cite=66.44.270
+1152,pierce,POSSESSION OF UNLAWFUL FIREARMS,18,,class B/C felony,public order,,class of felony depends on 1st or 2nd degree,9.41.040,http://app.leg.wa.gov/rcw/default.aspx?cite=9.41.040
+1292,pierce,RESIST ARR /DV,18,,misdemeanor,public order,,,9A.76.040,http://apps.leg.wa.gov/rcw/default.aspx?cite=9A.76.040
+1315,pierce,RETAIL THFT W/EXT CIRCUMSTANCES 1,18,,class B felony,property,,,9A.56.360,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.360
+33,pierce,ANTI-HARAS /DV,17,,gross misdemeanor,public order,,can be class C felony depending on circumstances,26.50.110,http://app.leg.wa.gov/rcw/default.aspx?cite=26.50.110
+229,pierce,COMMSEXABUSEMINOR,17,,class B felony,sex,,,9.68A.100,http://app.leg.wa.gov/rcw/default.aspx?cite=9.68A.100
+551,pierce,FAIL TRANS TITLE W/I 45 DYS,17,,misdemeanor,public order,,,https://caselaw.findlaw.com/wa-supreme-court/1389351.html,https://caselaw.findlaw.com/wa-supreme-court/1389351.html
+1155,pierce,PRESC FORGERY,17,,class C felony,public order,,,69.50.403,https://app.leg.wa.gov/rcw/default.aspx?cite=69.50.403
+604,pierce,FEL VEHICLE PROWL,16,,class C felony,property,vehicle prowl is usually a simple or gross misd. ,,9A.52.095,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.52.095
+808,pierce,INTIM WPN /DV,16,,gross misdemeanor,violent,,,9.41.280,http://apps.leg.wa.gov/RCW/default.aspx?cite=9.41.280
+1456,pierce,THEFT W/INTENT RESELL 2,16,,class C felony,property,,,9A.56.340,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.340
+1744,pierce,WEAPONS-SELL/MAKE/BUY/POSSESS,16,,unknown,public order,,no charge found,9.41.040,http://app.leg.wa.gov/RCW/default.aspx?cite=9.41.040
+26,pierce,ANIMAL CRUELTY 1 (C),15,,class C felony,violent,,,16.52.205,https://app.leg.wa.gov/rcw/default.aspx?cite=16.52.205
+541,pierce,FAIL TO OBEY,15,,misdemeanor,public order,,asame as failure to comply,46.61.022,https://app.leg.wa.gov/rcw/default.aspx?cite=46.61.022
+577,pierce,FALSE REPORT,15,,gross misdemeanor,public order,,,9A.84.040,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.84.040
+778,pierce,INDECENT EXPOSURE,15,,misdemeanor,sex,,,9A.88.010,http://apps.leg.wa.gov/RCW/default.aspx?cite=9A.88.010
+1069,pierce,PHONE HARAS /DV,15,,class C felony,public order,could be gross misd?,,9.61.230,http://app.leg.wa.gov/rcw/default.aspx?cite=9.61.230
+1191,pierce,RACING,15,,gross misdemeanor,public order,,considered reckless driving,46.61.530,https://app.leg.wa.gov/rcw/default.aspx?cite=46.61.530
+1366,pierce,SODA VIOL,15,,gross misdemeanor,drug,could be probation violation,"Marysville statute, SODA=Stay Out of Drugs Area ",http://www.codepublishing.com/WA/Marysville/html/Marysville06/Marysville0628.html,http://www.codepublishing.com/WA/Marysville/html/Marysville06/Marysville0628.html
+1405,pierce,TAMPERING W/PHYSICAL EVIDENCE,15,,gross misdemeanor,public order,,,9A.72.150,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.72.150
+34,pierce,ANTI-HARASSMENT ORDER,14,,gross misdemeanor,public order,,can be class C felony depending on circumstances,26.50.110,http://app.leg.wa.gov/rcw/default.aspx?cite=26.50.110
+190,pierce,CARRY CONCEALED WPN W/O PERMIT,14,,civil infraction,public order,,?,9.41.050,http://app.leg.wa.gov/rcw/default.aspx?cite=9.41.050
+367,pierce,DEST PROPERTY,14,,gross misdemeanor,public order,,"? malicious mischief refers to property damage, but 3 levels",,
+471,pierce,DUTY TO OBEY LAW ENFORCEMENT OFC,14,,misdemeanor,public order,,,46.61.022,https://app.leg.wa.gov/rcw/default.aspx?cite=46.61.022
+803,pierce,INTIM PUB SERV,14,,class B felony,violent,,,9A.76.180,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.76.180
+1066,pierce,PETTY THEFT,14,,misdemeanor,property,,"theft in 3rd degree is considered ""petty theft"" according to the internet",9A.56.050,http://apps.leg.wa.gov/RCW/default.aspx?cite=9A.56.050
+292,pierce,CRIM MISTREAT 2,13,,class C felony,violent,,,9A.42.030,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.42.030
+396,pierce,DISORDERLY CONDUCT(SIP),13,,misdemeanor,public order,,,9A.84.030,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.84.030
+692,pierce,HARASSMENT-THREATEN BODILY INJURY,13,,class C felony,violent,probably gross misd,,9a.46.020,http://apps.leg.wa.gov/RCW/default.aspx?cite=9a.46.020
+767,pierce,INCEST 1,13,,class B felony,sex,,,9A.64.020.,http://apps.leg.wa.gov/rcw/default.aspx?cite=9A.64.020.
+1105,pierce,POSS WEAP ON SCHOOL PROP,13,,gross misdemeanor,public order,,,9.41.280,http://app.leg.wa.gov/rcw/default.aspx?cite=9.41.280
+1282,pierce,REND CRIM ASST 1,13,,class B felony,public order,,,9A.76.070,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.76.070
+1647,pierce,VEH OPR-REFUSE COMPLY POLICE,13,,misdemeanor,public order,,,46.61.020,https://app.leg.wa.gov/rcw/default.aspx?cite=46.61.020
+1681,pierce,VIO. PROT. ORD - NON-DV,13,,gross misdemeanor,public order,,,26.50.110,http://app.leg.wa.gov/rcw/default.aspx?cite=26.50.110
+338,pierce,CYBERSTALKING,12,,gross misdemeanor,public order,,can be class C felony,9.61.260,https://app.leg.wa.gov/rcw/default.aspx?cite=9.61.260
+666,pierce,GRAFFITI VANDALISM,12,,gross misdemeanor,public order,,considered malicious mischief,9A.48.090.2C%20GRAFFITI,http://app.leg.wa.gov/RCW/default.aspx?cite=9A.48.090.2C%20GRAFFITI
+761,pierce,IM UPCS W INT,12,,class B/C felony,drug,,class of felony depends on schedule of the drug,69.50.401,http://app.leg.wa.gov/rcw/default.aspx?cite=69.50.401
+802,pierce,INTIM PUB SER,12,,class B felony,violent,,,9A.76.180,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.76.180
+863,pierce,LURING,12,,class C felony,violent ,,,9A.40.090,http://apps.leg.wa.gov/rcw/default.aspx?cite=9A.40.090
+953,pierce,MONEY LAUNDERING,12,,FELONY CLASS B,property,,,9A.83.020,
+1156,pierce,PRISONER POSS CS,12,,class C felony,drug,,,9.94.041,http://app.leg.wa.gov/rcw/default.aspx?Cite=9.94.041
+1497,pierce,THFT RENT/LEAS PROP,12,,gross misdemeanor,property,,can increase in charge severtiy with value of property increasing ,9A.56.096,http://apps.leg.wa.gov/rcw/default.aspx?cite=9A.56.096
+279,pierce,CONTEMPT OF COURT,11,,misdemeanor,public order,?,fines,7.21,http://app.leg.wa.gov/rcw/default.aspx?cite=7.21&full=true
+468,pierce,DUTY IF INJURY OCCURS - VEH ACC,11,,class C felony,public order,could be gross misd. ,,46.52.020,https://app.leg.wa.gov/rcw/default.aspx?cite=46.52.020
+667,pierce,HAB OFFENDER,11,,other,public order,,,46.65.010,http://app.leg.wa.gov/RCW/default.aspx?cite=46.65.010
+813,pierce,INTRO CONTRA 1,11,,class B felony,public order,,,9A.76.140,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.76.140
+861,pierce,LOITER FOR PROSTITUTION,11,,misdemeanor,public order,,referenced as an offense but can't find specific charge. would assume its misdemeanor like prostitution charge,13.40.213,http://app.leg.wa.gov/RCW/default.aspx?cite=13.40.213
+993,pierce,OBSTRUCT /DV,11,,misdemeanor,public order,???,,46.20.005,http://apps.leg.wa.gov/rcw/default.aspx?cite=46.20.005
+1009,pierce,OBTAIN CS BY FRAUD,11,,class C felony,drug,,,69.50.403,https://app.leg.wa.gov/rcw/default.aspx?cite=69.50.403
+1237,pierce,RECK BURN 2,11,,gross misdemeanor,property,,,9A.48.050,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.48.050
+1244,pierce,RECKLES ENDANGER OF HI-WAY WORKER,11,,gross misdemeanor,public order,,don't know why they needed a new crime just for these ,46.61.527,https://app.leg.wa.gov/rcw/default.aspx?cite=46.61.527
+1679,pierce,VIO REST OR /DV,11,,gross misdemeanor,public order,could be Class C ambiguous,,26.50.110,http://app.leg.wa.gov/rcw/default.aspx?cite=26.50.110
+1686,pierce,VIOL DISTRUB CS TO MINOR UNDER 18,11,,class C felony,public order,,assume class C felony as with other controlled substances violations but no specific findings ,69.50.401,http://app.leg.wa.gov/rcw/default.aspx?cite=69.50.401
+19,pierce,ALT ID MARKS,10,,unknown,public order,,"RCW only refers to exceptions, doesn't list seriousness",9.41.140,https://app.leg.wa.gov/rcw/default.aspx?cite=9.41.140
+51,pierce,ASLT CHILD 1ST,10,,class A felony,violent,,,9A.36.120,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.36.120
+57,pierce,ASLT/DV STRANGULATION,10,,class C felony,violent,probably assault 2,ambiguous,9A.36.041,http://app.leg.wa.gov/rcw/default.aspx?cite=9A.36.041
+132,pierce,ATT MURDER 2,10,,class A felony,violent,,see criminal attempt RCW,9A.28.020,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.28.020
+375,pierce,DISARMING P.O.,10,,class C felony,public order,,,9A.76.023,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.76.023
+722,pierce,HOLD - ORDER OF RETRN,10,,other,other,,,,
+807,pierce,INTIM WITNESS,10,,class B felony,violent,,÷,9A.72.110,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.72.110
+815,pierce,INTRO CONTRA 3,10,,misdemeanor,public order,,,9A.76.160,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.76.160
+845,pierce,LEADING ORGANIZED CRIME/ORG/MANAGE,10,,class A felony,public order,,,9A.82.060,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.82.060
+960,pierce,NARCOTICS - CONTR SUB,10,,class C felony,drug,,anything other than MJ = B/C felony,,
+1189,pierce,PUBLIC DISTURBANCE,10,,gross misdemeanor,public order,,"actually a number of other specific crimes that range in severity, see source ",9A.84,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.84&full=true
+1236,pierce,RECK BURN 1,10,,class C felony,property,,,9A.48.040,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.48.040
+1271,pierce,REFUSE INFO,10,,misdemeanor,public order,,,46.61.020,https://app.leg.wa.gov/rcw/default.aspx?cite=46.61.020
+1537,pierce,TRESP PUB,10,,misdemeanor,public order,,trespassing public is not a charge in RCW,,
+1563,pierce,UNL POSS FICT ID,10,,class C felony,public order,,,9A.56.320,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.320
+1566,pierce,UNL PROD PAYMENT INSTR,10,,class C felony,public order,,unlawful production of payment instructions returns no results ,,
+1673,pierce,VIO ANTI HARRASS,10,,gross misdemeanor,public order,,,26.50.110,http://app.leg.wa.gov/rcw/default.aspx?cite=26.50.110
+27,pierce,ANIMAL CRUELTY 2,9,,gross misdemeanor,violent,,public order?,16.52.207,https://app.leg.wa.gov/rcw/default.aspx?cite=16.52.207
+284,pierce,COUNTERFEITING,9,,misdemeanor,property,I think this is a felony,can be gross misdemeanor or class C felony,9.16.035,https://app.leg.wa.gov/rcw/default.aspx?cite=9.16.035
+348,pierce,DEAL DEP MIN ENG SEX EXP CONDUCT,9,,class B felony,sex,,,9.68a#9.68A.050,http://app.leg.wa.gov/rcw/default.aspx?cite=9.68a&full=true#9.68A.050
+623,pierce,FLD TO OBEY POLICE OFFICER,9,,misdemeanor,public order,,,46.61.022,https://app.leg.wa.gov/rcw/default.aspx?cite=46.61.022
+1088,pierce,POSS INJ DEVICE,9,,misdemeanor,drug,,covered under paraphanelia ,69.50.412,https://app.leg.wa.gov/rcw/default.aspx?cite=69.50.412
+1270,pierce,RECREATIONAL FISHING 2ND DEGREE,9,,gross misdemeanor,public order,probably simple misd,,77.15.380,https://app.leg.wa.gov/rcw/default.aspx?cite=77.15.380
+1274,pierce,REFUSE TO GIVE INFO/COOPERATE W/0,9,,misdemeanor,public order,,,46.61.020,https://app.leg.wa.gov/rcw/default.aspx?cite=46.61.020
+1332,pierce,SEX EXPLOIT MINOR,9,,class B felony,sex,,,9.68A.040,https://app.leg.wa.gov/rcw/default.aspx?cite=9.68A.040
+1695,pierce,VIOL PROT ORD,9,,gross misdemeanor,public order,,,26.50.110,http://app.leg.wa.gov/rcw/default.aspx?cite=26.50.110
+16,pierce,ALIEN IN POSSESSION OF FIREARM,8,,class C felony,public order,,public order?,9.41.171,https://app.leg.wa.gov/rcw/default.aspx?cite=9.41.171
+20,pierce,ALTER ID MARKS ON FIREARM,8,,unknown,public order,,"RCW only refers to exceptions, doesn't list seriousness",9.41.140,https://app.leg.wa.gov/rcw/default.aspx?cite=9.41.140
+191,pierce,CARRYDANGWPNKNIFE,8,,gross misdemeanor,public order,,,9.41.250,https://app.leg.wa.gov/rcw/default.aspx?cite=9.41.250
+226,pierce,COMM MINOR IMM,8,,gross misdemeanor,sex,can be class C,can be felony if previous sexual offender,9.68a.090,http://apps.leg.wa.gov/rcw/default.aspx?cite=9.68a.090
+570,pierce,FALSE IDENTIFICAITON,8,,misdemeanor,public order,,,46.20.0921,https://app.leg.wa.gov/rcw/default.aspx?cite=46.20.0921
+740,pierce,HUMAN TRAFFICKING 2,8,,class A felony,violent,,,9a.40.100,http://apps.leg.wa.gov/rcw/default.aspx?cite=9a.40.100
+789,pierce,INTERF PO,8,,gross misdemeanor,public order,,,,
+855,pierce,LITTERING,8,,civil infraction,public order,,,70.93.060,http://app.leg.wa.gov/rcw/default.aspx?cite=70.93.060
+1021,pierce,OPER VEH W/O VAL CERT OF OWNER,8,,misdemeanor,public order,???,its illegal but charge not specified,46.12.520,https://app.leg.wa.gov/rcw/default.aspx?cite=46.12.520
+1104,pierce,POSS UNLAWFUL FIREARM,8,,class C felony,public order,,class of felony depends on 1st or 2nd degree,9.41.040,http://app.leg.wa.gov/rcw/default.aspx?cite=9.41.040
+1119,pierce,POSSESS PISTOL BY PERS AGE 18 T0 21,8,,misdemeanor,public order,I think this is felony,"unlawful but charge not specified, could be the same as possession of unlawful firearm ",9.41.240,http://app.leg.wa.gov/rcw/default.aspx?cite=9.41.240
+1157,pierce,PROB VIOL (PROST),8,,other,public order,,"seems like it they would be charged with the new crime, whatever it be, and then a parole violation is separate and up to the PO's discretion ",9.94A.737,http://app.leg.wa.gov/rcw/default.aspx?cite=9.94A.737
+1240,pierce,RECK ENDANG /DV,8,,gross misdemeanor,public order,,,9a.36.050,http://app.leg.wa.gov/RCW/default.aspx?cite=9a.36.050
+1387,pierce,SUPP LIQ MINOR,8,,gross misdemeanor,public order,,,66.44.270,http://apps.leg.wa.gov/rcw/default.aspx?cite=66.44.270
+1577,pierce,UNLAW POSS PERSONAL IDENT DEVICE,8,,class C felony,public order,,,9A.56.320,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.320
+1578,pierce,UNLAW SALE CS,8,,class C felony,drug ,,,69.50.401,http://app.leg.wa.gov/rcw/default.aspx?cite=69.50.401
+218,pierce,CIVIL FAMILY COURT,7,,other,public order,failure to pay child support?/ not a crime,?,,
+308,pierce,CRIMINAL CONSPIRACY,7,,other,other,,depends on nature of crime,9A.28.040,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.28.040
+524,pierce,EXTOR 1,7,,class B felony,violent,,,9A.56.120,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.120
+537,pierce,FAIL TO DISPERSE,7,,misdemeanor,public order,,,9A.84.020,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.84.020
+571,pierce,FALSE IDENTIFICATION,7,,misdemeanor,public order,,,46.20.0921,https://app.leg.wa.gov/rcw/default.aspx?cite=46.20.0921
+769,pierce,INCEST 2,7,,class C felony,sex,,,9A.64.020.,http://apps.leg.wa.gov/rcw/default.aspx?cite=9A.64.020.
+792,pierce,INTERFER. W/HEALTH CARE FACILITY,7,,gross misdemeanor,public order,,,9A.50.030,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.50.030
+814,pierce,INTRO CONTRA 2,7,,class C felony,public order,,,9A.76.150,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.76.150
+860,pierce,LOADED PISTOL IN VEH.,7,,misdemeanor,public order,,,9.41.050,http://app.leg.wa.gov/rcw/default.aspx?cite=9.41.050
+920,pierce,MANSLAUGHTER 2,7,,class B felony,violent,,,9A.32.060,http://apps.leg.wa.gov/RCW/default.aspx?cite=9A.32.060
+944,pierce,MINOR OP VEH/ALC CONS,7,,misdemeanor,public order,,,46.61.503,http://app.leg.wa.gov/rcw/default.aspx?cite=46.61.503
+992,pierce,OBSTR. PED./TRAFFIC,7,,misdemeanor,public order,,,,
+1091,pierce,POSS LEGEND DRUG/INTENT TO SELL,7,,class B felony,drug,,,69.41.030,http://app.leg.wa.gov/rcw/default.aspx?cite=69.41.030
+1499,pierce,THREAT TO BOMB OR INJURE PROPERTY,7,,class B felony,property,,,9.61.160,http://app.leg.wa.gov/rcw/default.aspx?cite=9.61.160
+1595,pierce,UNLAWFUL INHALATION,7,,misdemeanor,drug ,,,9.47A.050,http://app.leg.wa.gov/RCW/default.aspx?cite=9.47A.050
+222,pierce,COERCION,6,,gross misdemeanor,public order,,,9A.36.070,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.36.070
+247,pierce,CONDUCT ACTIVITY W/O LICENSE,6,,unknown,other,probably misdemeanor,,,
+369,pierce,DESTRUCTION OF EVIDENCE,6,,class C felony,public order,,,33.36.060,https://app.leg.wa.gov/rcw/default.aspx?cite=33.36.060
+378,pierce,DISCHARGE OF FIREARMS PROHIBITED,6,,gross misdemeanor,public order,,,9.41.230,http://app.leg.wa.gov/rcw/default.aspx?cite=9.41.230
+535,pierce,FAIL TO COMPLY,6,,misdemeanor,public order,,assumed this was complying w/ Police Officer ,46.61.022,https://app.leg.wa.gov/rcw/default.aspx?cite=46.61.022
+578,pierce,FALSE REPORT OF CRIME,6,,gross misdemeanor,public order,,,9A.84.040,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.84.040
+785,pierce,INDECENT LIBERTIES,6,,class B felony,sex,,,9a.44.100,http://app.leg.wa.gov/rcw/default.aspx?cite=9a.44.100
+919,pierce,MANSLAUGHTER 1,6,,class A felony,violent,,,9A.32.060,http://apps.leg.wa.gov/RCW/default.aspx?cite=9A.32.060
+945,pierce,MINOR OPER VEH AFTER ALCOHOL CONS,6,,misdemeanor,public order,,,46.61.503,http://app.leg.wa.gov/rcw/default.aspx?cite=46.61.503
+1072,pierce,PHYS CNTRL W/ PRIOR CONVICTION,6,,class C felony,public order,could be gross misdemeanor,prior convicitons elevate charge to felony ,http://app.leg.wa.gov/rcw/supdefault.aspx?cite=46.61.504,http://app.leg.wa.gov/rcw/supdefault.aspx?cite=46.61.504
+1141,pierce,POSSESSION OF DANGEROUS WEAPON,6,,gross misdemeanor,public order,,,9.41.250,http://app.leg.wa.gov/RCW/default.aspx?cite=9.41.250
+1166,pierce,PROM PROST 1,6,,class B felony,sex,,,9A.88.070,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.88.070
+1357,pierce,SEX/KIDNAP OFFNDR FAIL TO REGISTER,6,,class C felony,public order,,,9A.44.132,http://app.leg.wa.gov/rcw/default.aspx?cite=9A.44.132
+1535,pierce,TRANS-CONS/INTOX,6,,misdemeanor,drug,,I think this is consuming intoxicants on transit but am unsure ,9.91#9.91.025,http://app.leg.wa.gov/rcw/default.aspx?cite=9.91&full=true#9.91.025
+1560,pierce,UNL POS AMM W/I MAN METH,6,,class C felony,drug,,"Unlawful Possession of Ammonia with inention of manufacturing meth, I assume this is also covered by unlawful manufacture but I am unsure ",69.50.401,http://app.leg.wa.gov/rcw/default.aspx?cite=69.50.401
+1743,pierce,WEAPONS PROHIBITED IN CERTAIN PLACE,6,,gross misdemeanor,public order,,,9.41.300,http://app.leg.wa.gov/rcw/default.aspx?cite=9.41.300
+5,pierce,AGGR MURDER 1,5,,class A felony,violent,,,10.95.020,http://apps.leg.wa.gov/RCW/default.aspx?cite=10.95.020
+227,pierce,COMM W/MINOR FOR IMMORAL PURPOSE,5,,gross misdemeanor,sex,can be Class C,can be felony if previous sexual offender,9.68a.090,http://apps.leg.wa.gov/rcw/default.aspx?cite=9.68a.090
+334,pierce,CUST INTER,5,,class C felony,violent,,based on custodial interference 1,9A.40.060,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.40.060
+576,pierce,FALSE INS CLAIM,5,,gross misdemeanor,public order,,if claim is above $1500 it is class C felony ,48.30.230,https://app.leg.wa.gov/rcw/default.aspx?cite=48.30.230
+727,pierce,HOLD FBI,5,,other,other,,,,
+758,pierce,ILL DRUG CONDUCT,5,,civil infraction,drug,,,,
+875,pierce,MAL HARASS /DV,5,,class C felony,violent ,,,9a.36.080,http://apps.leg.wa.gov/RCW/default.aspx?cite=9a.36.080
+891,pierce,MAL PLACEMENT OF EXPLOSIVES,5,,class A/B felony,violent ,,felony class depends on degree of charge ,70.74.270,https://app.leg.wa.gov/rcw/default.aspx?cite=70.74.270
+1056,pierce,PED/VEH OBS TRAFFIC,5,,misdemeanor,public order,,illegal but charge not specified,46.61.570,https://app.leg.wa.gov/rcw/default.aspx?cite=46.61.570
+1070,pierce,PHONE HARASS -NON DV,5,,gross misdemeanor,public order,could be gross misd?,,9.61.230,http://app.leg.wa.gov/rcw/default.aspx?cite=9.61.230
+1111,pierce,POSSESS COUNTERFEIT SUBSTANCE,5,,class C felony,property,,,69.50.4011,https://app.leg.wa.gov/rcw/default.aspx?cite=69.50.4011
+1169,pierce,PROMOTING SEXUAL ABUSE OF A MINOR,5,,class A felony,sex,,"RCW charge includes word ""commerical"" that is absent in the listed charge ",9.68A.101,https://app.leg.wa.gov/rcw/default.aspx?cite=9.68A.101
+1183,pierce,PUB DIST-VEH SND SYS,5,,misdemeanor,public order,,,,
+1354,pierce,SEX VIOL PRED,5,,other,other,,"I think this is a label on an inmate, Sexually Violent Predator, not a charge ",http://app.leg.wa.gov/rcw/supdefault.aspx?cite=71.09,http://app.leg.wa.gov/rcw/supdefault.aspx?cite=71.09&full=true
+1358,pierce,SEXUAL ASSAULT,5,,unknown,sex,,doesn't appear to be a charge in WA called sexual assault ,9a.44,http://app.leg.wa.gov/rcw/default.aspx?cite=9a.44
+1412,pierce,TELEPHONE HARASSMENT,5,,gross misdemeanor,public order,,,9.61.230,http://app.leg.wa.gov/rcw/default.aspx?cite=9.61.230
+1569,pierce,UNL USE FIREARM BY MINOR,5,,unknown,public order,,unlawful possession specified but not unlawful use ,,
+1622,pierce,UPCS (MJ) NON,5,,unknown,drug,likely a felony,"unclear as to MJ, if it is marijuana it depends on the gram amount",,
+1630,pierce,URINATING IN PUBLIC(SIP),5,,civil infraction,public order,,,http://www.codepublishing.com/WA/Pacific/html/Pacific09/Pacific0926.html,http://www.codepublishing.com/WA/Pacific/html/Pacific09/Pacific0926.html
+3,pierce,ABANDONMNT 3,4,,gross misdemeanor,public order,,,9A.42.080,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.42.080
+55,pierce,ASLT POL DOG,4,,class C felony,violent,,,9A.76.200,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.76.200
+133,pierce,ATT UNL IMPRIS/DV,4,,gross misdemeanor,violent,,based on unlawful imprisonment with criminal attempt modifier,9A.40.040,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.40.040
+251,pierce,CONSP DEL CS,4,,class C felony,drug,,felony,,
+277,pierce,CONTEMPT - TRUANCY CRT ORD,4,,misdemeanor,public order,,?,,
+285,pierce,COURT ORDER VIOLATION,4,,misdemeanor,public order,,?,,
+298,pierce,CRIM TRESP 1 /DV,4,,gross misdemeanor,property,,,9A.52.070,http://apps.leg.wa.gov/RCW/default.aspx?cite=9A.52.070
+371,pierce,DESTRUCTION OF PROPERTY,4,,gross misdemeanor,public order,,"? malicious mischief refers to property damage, but 3 levels",,
+401,pierce,DIST TABACCO W/O LICENSE,4,,class C felony,public order,Not sure this is a felony,,82.26.190,http://app.leg.wa.gov/rcw/default.aspx?cite=82.26.190
+506,pierce,ENDANG W/CONTR SUB,4,,class B felony,drug,,,9A.42.100,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.42.100
+552,pierce,FAIL YLD EMERG VEH,4,,gross misdemeanor,public order,,,46.61.212,https://app.leg.wa.gov/rcw/default.aspx?cite=46.61.212
+564,pierce,FAILURE TO OBEY FLAGMAN,4,,misdemeanor,public order,,,46.61.015,https://app.leg.wa.gov/rcw/default.aspx?cite=46.61.015
+602,pierce,FEL POSS F/A 2,4,,class C felony,public order,,,9.41.040,http://app.leg.wa.gov/rcw/default.aspx?cite=9.41.040
+733,pierce,HOLD WSH,4,,other,other,,,,
+774,pierce,IND COND/EXPOS TO PER <14,4,,gross misdemeanor,sex,,,9A.88.010,http://apps.leg.wa.gov/RCW/default.aspx?cite=9A.88.010
+819,pierce,INVOLV MINOR IN CS TRANSACTION,4,,class C felony,drug,,,69.50.4015,https://app.leg.wa.gov/rcw/default.aspx?cite=69.50.4015
+859,pierce,LOADED GUN IN VEHICLE,4,,misdemeanor,public order,,,77.15.460,https://app.leg.wa.gov/rcw/default.aspx?cite=77.15.460
+949,pierce,MINOR REMAIN PUB PLACE/CONS LIQ,4,,misdemeanor,public order,,,46.61.503,http://app.leg.wa.gov/rcw/default.aspx?cite=46.61.503
+1059,pierce,PEDESTRIAN INTERF,4,,misdemeanor,public order,,Oddly anti-homeless?Seems to be a Seattle ordinance ,http://www.codepublishing.com/WA/UniversityPlace/html/UniversityPlace09/UniversityPlace0955.html,http://www.codepublishing.com/WA/UniversityPlace/html/UniversityPlace09/UniversityPlace0955.html
+1074,pierce,PHYS CTRL W/ PRIOR CONVICTION,4,,class C felony,public order,could be gross misd,,http://app.leg.wa.gov/rcw/supdefault.aspx?cite=46.61.504,http://app.leg.wa.gov/rcw/supdefault.aspx?cite=46.61.504
+1087,pierce,POSS INCENDIARY DEV,4,,class B felony,public order,,,9.40.120,https://app.leg.wa.gov/rcw/default.aspx?cite=9.40.120
+1186,pierce,PUB INDECENCY,4,,misdemeanor,sex,,,9A.88.010,
+1262,pierce,RECKLESS ENDANGERMENT,4,,gross misdemeanor,public order,,,9a.36.050,http://app.leg.wa.gov/RCW/default.aspx?cite=9a.36.050
+1318,pierce,RIOT-ARMED,4,,class C felony,violent,,"I think it would be considered criminal mischief with deadly weapon, no rcw for rioting renders a charge ",9A.84.010,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.84.010
+1367,pierce,SOL OCCUPANT OF VEH PUB ROAD,4,,misdemeanor,public order,,unlawful but no charge specified,46.61.255,http://app.leg.wa.gov/RCW/default.aspx?cite=46.61.255
+1390,pierce,SWITCHED LICENSE PLATES,4,,civil infraction,public order,,"its a traffic violation to display improper liscense plates, and considered unlawful to switch plates but I can't find any charges ",46.16A.200,http://app.leg.wa.gov/rcw/default.aspx?cite=46.16A.200
+1500,pierce,THREATENED BODILY INJURY-NON DV,4,,gross misdemeanor,violent ,,considered harrassment,9a.46.020,http://apps.leg.wa.gov/RCW/default.aspx?cite=9a.46.020
+1623,pierce,UPCS (MJ) PERS,4,,unknown,drug,likely a felony,"unclear as to MJ, if it is marijuana it depends on the gram ",,
+1624,pierce,UPCS BY PERSON NOT A PRISONER,4,,class C felony,drug,,don't know why this is specified ,69.50.401,http://app.leg.wa.gov/rcw/default.aspx?cite=69.50.401
+1656,pierce,VEHICLE OPR-REFUSE COMPLY POLICE,4,,misdemeanor,public order,,,46.61.020,https://app.leg.wa.gov/rcw/default.aspx?cite=46.61.020
+1,pierce,ABANDONMENT DEPENDENT PERSON 3,3,,gross misdemeanor,public order,,,9A.42.080,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.42.080
+4,pierce,AGG BEG,3,,misdemeanor,public order,,"Lakewood city ordinance, may be unconstiutional?",https://www.cityoflakewood.us/documents/police/crime_prevention_pamphlets_-_english/agressive_begging_brochure.pdf,https://www.cityoflakewood.us/documents/police/crime_prevention_pamphlets_-_english/agressive_begging_brochure.pdf
+290,pierce,CRIM MISCHIEF WITH A DEADLY WEAPON,3,,class C felony,violent,,,9A.84.010,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.84.010
+291,pierce,CRIM MISTREAT 1,3,,class B felony,violent,,,9A.42.020,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.42.020
+363,pierce,DELIVER FIREARM TO INELIGIBLE PERSON,3,,FELONY CLASS C,public order,,,9.41.080,http://app.leg.wa.gov/rcw/default.aspx?cite=9.41.080
+381,pierce,DISO PERS,3,,misdemeanor,public order,,,9A.84.030,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.84.030
+584,pierce,FALSE RPT,3,,gross misdemeanor,public order,,,9A.84.040,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.84.040
+625,pierce,FOOD STAMPS-TRAFFICKING,3,,class C felony,public order,,gross misdemeanor if stamp value <$100,9.91.142,https://app.leg.wa.gov/rcw/default.aspx?cite=9.91.142
+669,pierce,HARASS-THREAT PROP DAMAGE,3,,class C felony,violent,gross misd. not felony,,9a.46.020,http://apps.leg.wa.gov/RCW/default.aspx?cite=9a.46.020
+846,pierce,LEAVE CHLD UNATT/CAR,3,,misdemeanor,public order,,,46.61.685,https://app.leg.wa.gov/rcw/default.aspx?cite=46.61.685
+873,pierce,MAKING/POSS OF AUTO THEFT TOOLS,3,,gross misdemeanor,property,,,9A.56.063,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.063
+939,pierce,MINOR IN POSSESSION OF PISTOL,3,,misdemeanor,public order,,,9.41.060,http://app.leg.wa.gov/RCW/default.aspx?cite=9.41.060
+962,pierce,NEG DRIVING 1ST,3,,misdemeanor,public order,,,46.61.5249,http://app.leg.wa.gov/rcw/default.aspx?cite=46.61.5249
+1014,pierce,OFFERING FALSE INSTRUMENT,3,,class C felony,public order,,,40.16.030,https://app.leg.wa.gov/rcw/default.aspx?cite=40.16.030
+1045,pierce,PATRONIZE PROST,3,,misdemeanor,public order,,,9A.88.110,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.88.110
+1086,pierce,POSS FICT/ALT LIC,3,,gross misdemeanor,public order,,can be class C felony if done to commit theft or for financial gain ,46.20.0921,https://app.leg.wa.gov/rcw/default.aspx?cite=46.20.0921
+1117,pierce,POSSESS FICT/ALTERED LICENSE,3,,gross misdemeanor,public order,,can be class C felony if done to commit theft or for financial gain ,46.20.0921,https://app.leg.wa.gov/rcw/default.aspx?cite=46.20.0921
+1171,pierce,PROSTITUTION,3,,misdemeanor,sex,,,9A.88.030,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.88.030
+1243,pierce,RECK. ENDANG / DV,3,,gross misdemeanor,public order,,,9a.36.050,http://app.leg.wa.gov/RCW/default.aspx?cite=9a.36.050
+1245,pierce,Reckless Burning,3,,class C felony,property,ambiguous,,9A.48.050,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.48.050
+1279,pierce,REND CRIM ASSIST 2,3,,misdemeanor,public order,,,9A.76.080,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.76.080
+1454,pierce,THEFT RENTAL PROP <750,3,,gross misdemeanor,property,,can increase in charge severtiy with value of property increasing ,9A.56.096,http://apps.leg.wa.gov/rcw/default.aspx?cite=9A.56.096
+1455,pierce,THEFT W/INTENT RESELL 1,3,,class B felony,property,,,9A.56.340,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.340
+1498,pierce,THREAT BODILY INJ/DV,3,,gross misdemeanor,violent ,,considered harrassment,9a.46.020,http://apps.leg.wa.gov/RCW/default.aspx?cite=9a.46.020
+1556,pierce,UICD,3,,unknown,other,,,,
+1586,pierce,Unlawful Camping,3,,civil infraction,public order,,,http://apps.leg.wa.gov/wac/default.aspx?cite=352-32-030,http://apps.leg.wa.gov/wac/default.aspx?cite=352-32-030
+1600,pierce,"UNLAWFUL MAN, SALE/OFFER SELL EXPLO",3,,class C felony,public order,,,70.74.022,https://app.leg.wa.gov/rcw/default.aspx?cite=70.74.022
+1655,pierce,VEH/PED INTERFERENCE-OBSTRUCT TR,3,,misdemeanor,public order,,illegal but charge not specified,46.61.570,https://app.leg.wa.gov/rcw/default.aspx?cite=46.61.570
+1675,pierce,VIO NO CONTACT ORDER,3,,gross misdemeanor,public order,could be class C ambiguous,,26.50.110,http://app.leg.wa.gov/rcw/default.aspx?cite=26.50.110
+1677,pierce,VIO ORDER RESTRICTING CONTACT,3,,gross misdemeanor,public order,could be Class C ambiguous,,26.50.110,http://app.leg.wa.gov/rcw/default.aspx?cite=26.50.110
+0,pierce,ABANDON DEPENDENT SECOND,2,,class C felony,public order,,,9A.42.070,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.42.070
+6,pierce,AGGRESIVE BEGGING,2,,misdemeanor,public order,,,,
+22,pierce,ALTERATION OR FORGERY,2,,class B felony,public order,,,46.87.260,https://app.leg.wa.gov/rcw/default.aspx?cite=46.87.260
+29,pierce,ANIMAL CRUELTY SECOND DEGREE,2,,gross misdemeanor,violent,,,16.52.207(3),
+32,pierce,ANIMALS INJURING HUMANS OR DOMESTIC,2,,misdemeanor,public order,,?,,
+49,pierce,ASLT 4 W/ SEXUAL MOTIVATION,2,,class C felony,sex,could be gross misdemeanor,"""special allegation""?",9.94A.835,http://app.leg.wa.gov/rcw/default.aspx?cite=9.94A.835
+130,pierce,ATT INT CONTRABAND,2,,class C felony,public order,,"based on introducing contraband in the first degree, with criminal attempt modification: https://app.leg.wa.gov/rcw/default.aspx?cite=9A.28.020",9A.76.140,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.76.140
+185,pierce,BUSINESS LIC VIOL,2,,misdemeanor,public order,,depends on kind of business?,,
+197,pierce,CCW W/O PERMIT,2,,civil infraction,public order,,?,9.41.050,http://app.leg.wa.gov/rcw/default.aspx?cite=9.41.050
+249,pierce,CONSP COM MURDER,2,,class A felony,violent,,,9A.28.040,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.28.040
+283,pierce,CONTROLLED SUBSTANCES HOMICIDE,2,,class B felony,drug,,,69.50.415,https://app.leg.wa.gov/rcw/default.aspx?cite=69.50.415
+289,pierce,CRIM IMPERSON 2,2,,gross misdemeanor,public order,,,9A.60.045,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.60.045
+293,pierce,CRIM MISTREAT 3,2,,gross misdemeanor,violent,,,9A.42.035,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.42.035
+305,pierce,CRIMINAL ASSAULT-DV,2,,class C felony,violent,could be misd or higher degree felony; ambiguous,not sure what to do with these general versions of other crimes,,
+344,pierce,DAMAGE FIRE ALARM,2,,misdemeanor,public order,,,9.40.100,https://app.leg.wa.gov/rcw/default.aspx?cite=9.40.100
+377,pierce,DISCH FIRWORK,2,,gross misdemeanor,public order,,,70.77.488,https://app.leg.wa.gov/rcw/default.aspx?cite=70.77.488
+379,pierce,DISCLOSING INTIMATE IMAGES,2,,gross misdemeanor,public order,,,9A.86.010(1),
+400,pierce,DIST PEACE,2,,misdemeanor,public order,,disorderly conduct,9A.84.030,http://apps.leg.wa.gov/rcw/default.aspx?cite=9A.84.030
+416,pierce,DRIVE W/LIC SUSPENDED/REVOKED,2,,gross misdemeanor,public order,could be simple misd,can by gross misdemeanor,46.20.342,http://app.leg.wa.gov/rcw/default.aspx?cite=46.20.342
+432,pierce,DRIVING WITHOUT A LICENSE,2,,misdemeanor,public order,could be gross misd,,,
+469,pierce,DUTY IN CASE OF DEATH - VEH ACC,2,,class B felony,public order,not sure if this is B or C; Look at hit and run attended with injury,,46.52.020,https://app.leg.wa.gov/rcw/default.aspx?cite=46.52.020
+515,pierce,ESCAPE FROM CUSTODY,2,,class C felony,public order,,"same as Escape 1-3, could also be class B",9A.76.110,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.76.110
+563,pierce,FAILURE TO INITIALLY REGISTER VEHICLE,2,,civil infraction,public order,,only a misdemeanor if the person registered car in other state to avoid fees ,46.16A.030,http://app.leg.wa.gov/rcw/default.aspx?cite=46.16A.030
+588,pierce,FALSE/FLIPPING PLATE,2,,gross misdemeanor,public order,,,46.37.685,https://app.leg.wa.gov/rcw/default.aspx?cite=46.37.685
+600,pierce,FEL POS F/A,2,,class B felony,public order,,,9.41.040,http://app.leg.wa.gov/rcw/default.aspx?cite=9.41.040
+665,pierce,GRAFFITI POSSESS WITH INTENT,2,,gross misdemeanor,public order,,considered malicious mischief,9A.48.090.2C%20GRAFFITI,http://app.leg.wa.gov/RCW/default.aspx?cite=9A.48.090.2C%20GRAFFITI
+688,pierce,HARASSMENT - THREATEN MAL ACT,2,,class C felony,violent,probably gross misd,,9a.46.020,http://apps.leg.wa.gov/RCW/default.aspx?cite=9a.46.020
+696,pierce,HEALTH PROFESS. UNLICENSED PRACTICE,2,,gross misdemeanor,public order,,,18.130.190,
+723,pierce,HOLD AFP (ARMY),2,,other,other,,,,
+724,pierce,HOLD AT&F,2,,other,other,,,,
+739,pierce,HUMAN TRAFFICKING 1,2,,class A felony,violent,,,9a.40.100,http://apps.leg.wa.gov/rcw/default.aspx?cite=9a.40.100
+762,pierce,IMPERSONATE P/O,2,,gross misdemeanor,public order,,,9A.60.045,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.60.045
+794,pierce,INTERFERE W/HEALTH CARE FAC,2,,gross misdemeanor,public order,,,9A.50.030,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.50.030
+856,pierce,LITTERING GREATER THAN 1 CU. FT.,2,,misdemeanor,public order,,,70.93.060,http://app.leg.wa.gov/rcw/default.aspx?cite=70.93.060
+874,pierce,MAL EXPLOSION SUBST 2,2,,class A felony,violent ,,felony class depends on degree of charge ,70.74.270,https://app.leg.wa.gov/rcw/default.aspx?cite=70.74.270
+878,pierce,MAL MISC 3/DV,2,,gross misdemeanor,property,,,9A.48.090.2b%20DV,http://app.leg.wa.gov/RCW/default.aspx?cite=9A.48.090.2b%20DV
+924,pierce,MASSAGE LICENSING VIOLATION,2,,misdemeanor,public order,,,18.108.035,
+933,pierce,MINOR EXHIBITING EFFECTS OF ALCOHOL,2,,gross misdemeanor,public order,,,66.44.270,http://apps.leg.wa.gov/rcw/default.aspx?cite=66.44.270
+1017,pierce,OPEN ALCOHOLIC CONTAINER,2,,civil infraction,public order,,,46.61.519,http://app.leg.wa.gov/rcw/default.aspx?cite=46.61.519
+1044,pierce,PARKS - TRESPASS,2,,misdemeanor,public order,,,,
+1068,pierce,PHON HARASS /DV,2,,class C felony,public order,could be gross misd?,"RCW says with prior charges/no contact order against victim it becomes class C felony, assume if its related to DV it would trigger felony charge ",9.61.230,http://app.leg.wa.gov/rcw/default.aspx?cite=9.61.230
+1071,pierce,PHONE HARASSMENT,2,,gross misdemeanor,public order,could be gross misd?,,9.61.230,http://app.leg.wa.gov/rcw/default.aspx?cite=9.61.230
+1089,pierce,POSS INJECTION DEVICE,2,,misdemeanor,drug,,,69.50.412,https://app.leg.wa.gov/rcw/default.aspx?cite=69.50.412
+1097,pierce,POSS OF EXPLOSIVES W/O LICENSE,2,,class C felony,public order,,,70.74.022,https://app.leg.wa.gov/rcw/default.aspx?cite=70.74.022
+1103,pierce,POSS SUSP DRV LIC,2,,other,public order,,,46.20.338,https://app.leg.wa.gov/rcw/default.aspx?cite=46.20.338
+1109,pierce,POSSESION BY OFFENDERS - F/A AMMO,2,,unknown,public order,,"unlawful but not specified what charge, up to parole officers on how to proceed or file new charge ",9.41.045,http://app.leg.wa.gov/rcw/default.aspx?cite=9.41.045
+1116,pierce,POSSESS EXPLOSIVE/STINK BOMBS,2,,misdemeanor,public order,,"the stink bombs makes a big difference, standard explosives are class A felony ",70.74.310,https://app.leg.wa.gov/rcw/default.aspx?cite=70.74.310
+1154,pierce,POTENTIALLLY DANGEROUS DOG -NOTIFY,2,,gross misdemeanor,public order,, might not be the right crime but it seems like anything related to failure to register potentially dangerous dog is a gross misdemeanor,16.08.100,https://app.leg.wa.gov/rcw/default.aspx?cite=16.08.100
+1246,pierce,RECKLESS BURNING  2 ND DEGREE,2,,gross misdemeanor,property,,,9A.48.050,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.48.050
+1250,pierce,RECKLESS BURNING- 2,2,,gross misdemeanor,property,,,9A.48.050,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.48.050
+1330,pierce,SELLING MTV. W/TURNED BACK ODOM,2,,misdemeanor,public order,,considered unlawful but charge not specified ,46.37.550,http://apps.leg.wa.gov/RCW/default.aspx?cite=46.37.550
+1368,pierce,SOL OCCUPANTS OF VEH PUB ROAD,2,,misdemeanor,public order,,unlawful but no charge specified,46.61.255,http://app.leg.wa.gov/RCW/default.aspx?cite=46.61.255
+1400,pierce,TAMPERING W/ IGN. INTERLOCK DEVICE,2,,gross misdemeanor,public order,,,46.20.750,http://app.leg.wa.gov/rcw/default.aspx?cite=46.20.750
+1457,pierce,THEFT W/INTENT TO RESELL 3,2,,class C felony,property,,RCW only specifies 1st and 2nd degree,9A.56.340,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.340
+1505,pierce,THREATS TO HARM-DV,2,,gross misdemeanor,violent ,,considered harrassment,9a.46.020,http://apps.leg.wa.gov/RCW/default.aspx?cite=9a.46.020
+1562,pierce,UNL POS ID CARD,2,,class C felony,public order,,,9A.56.320,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.320
+1571,pierce,UNL. HARBORING RUNAWAY,2,,gross misdemeanor,public order,,,13.32A.080,
+1646,pierce,VEH OPR -REF COMPLY POLICE,2,,misdemeanor,public order,,,46.61.020,https://app.leg.wa.gov/rcw/default.aspx?cite=46.61.020
+1684,pierce,VIOL COUNTY/MUNI CRT ORD,2,,civil infraction,public order,,,,
+1687,pierce,VIOL FOREIGN PROT ORD,2,,civil infraction,public order,gross misd or class C,considered a crime but no charge given,26.52.070,http://app.leg.wa.gov/RCW/default.aspx?cite=26.52.070
+1715,pierce,VIOLATION OF OCCUPATIONAL LICENSE,2,,gross misdemeanor,public order,,,46.20.342,
+7,pierce,AGRESSIVE BEGGING,1,,misdemeanor,public order,,"Lakewood city ordinance, may be unconstiutional?",https://www.cityoflakewood.us/documents/police/crime_prevention_pamphlets_-_english/agressive_begging_brochure.pdf,https://www.cityoflakewood.us/documents/police/crime_prevention_pamphlets_-_english/agressive_begging_brochure.pdf
+8,pierce,AIDING/ABETTING VIOLATIONS,1,,other,other,ambiguous,?,,
+11,pierce,ALCOHL IN PARK,1,,civil infraction,public order,,,66.44.100,http://apps.leg.wa.gov/RCW/default.aspx?cite=66.44.100
+17,pierce,ALLOW UNAUTH DRIVER,1,,misdemeanor,public order,,,46.16A.520,https://app.leg.wa.gov/rcw/default.aspx?cite=46.16A.520
+50,pierce,ASLT 4/DV - PREVIOUS CONVICTION,1,,class C felony,violent,,,9A.36.041,http://app.leg.wa.gov/rcw/default.aspx?cite=9A.36.041
+134,pierce,ATTEMPTED TAMPER WITH A WITNESS/DV,1,,class C felony,public order,,,9A.72.120,http://app.leg.wa.gov/rcw/default.aspx?cite=9A.72.120
+156,pierce,BRIBERY,1,,class B felony,public order,,,9A.56.120,
+158,pierce,BUNCO,1,,class B felony,public order,,,9.47.120,https://app.leg.wa.gov/rcw/default.aspx?cite=9.47.120
+187,pierce,BUY/SELL VEH W/ALT SERIAL NUMBER,1,,gross misdemeanor,public order,,,46.12.720,https://app.leg.wa.gov/rcw/default.aspx?cite=46.12.720
+212,pierce,CHILD UNATT IN VEH/LIQ EST,1,,misdemeanor,public order,,,46.61.687,https://app.leg.wa.gov/rcw/default.aspx?cite=46.61.685
+225,pierce,COMM LIC REQUIRED,1,,other,public order,???,fine?,19.28.131,http://app.leg.wa.gov/RCW/default.aspx?cite=19.28.131
+245,pierce,COMPLICITY-AID/ABET,1,,other,other,,may depend on crime being aided?,http://apps.leg.wa.gov/wac/default.aspx?cite=137-25-030,http://apps.leg.wa.gov/wac/default.aspx?cite=137-25-030
+248,pierce,CONFINE AND IDENT. DANGEROUS DOG,1,,gross misdemeanor,public order,,?,16.08.100,http://app.leg.wa.gov/RCW/default.aspx?cite=16.08.100
+250,pierce,CONSP COMM PERJ 1,1,,class C felony,public order,,,,
+254,pierce,CONSUMER FRAUD TARGETING SENIORS,1,,civil infraction,public order,,,9.35.060,http://app.leg.wa.gov/RCW/default.aspx?cite=9.35.060
+280,pierce,CONTEMPT-TRUANCY CRT ORDER,1,,misdemeanor,public order,???,?,,
+281,pierce,CONTRIB DELIQUENCY MINOR,1,,misdemeanor,public order,,"? misdemeanor in Grandview, WA: http://www.codepublishing.com/WA/Grandview/html/Grandview09/Grandview0932.html",,
+287,pierce,CRIM CONSPIRACY,1,,other,other,,depends on nature of crime,9A.28.040,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.28.040
+294,pierce,CRIM MISTREAT 4,1,,misdemeanor,violent,,,9A.42.037,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.42.037
+346,pierce,DANGWPNSCHOOL,1,,gross misdemeanor,public order,,,9.41.280,http://apps.leg.wa.gov/rcw/default.aspx?cite=9.41.280
+347,pierce,DATES AND TIMES TO SELL FIREWORKS,1,,misdemeanor,public order,,,70.77#70.77.540,https://app.leg.wa.gov/rcw/default.aspx?cite=70.77&full=true#70.77.540
+354,pierce,DEFR INNKPR,1,,class B felony,public order,,,19.48.110,http://app.leg.wa.gov/rcw/default.aspx?cite=19.48.110
+355,pierce,DEFR PUB UTILITY,1,,class B felony,public order,,based on first degree,9A.61.030,http://app.leg.wa.gov/rcw/default.aspx?cite=9a.61&full=true
+356,pierce,DEFRAUD INNKEEPER,1,,class B felony,public order,,,19.48.110,http://app.leg.wa.gov/rcw/default.aspx?cite=19.48.110
+368,pierce,DESTROY VEH - FL SURR TITLE,1,,gross misdemeanor,property,,,46.12.600,https://app.leg.wa.gov/rcw/default.aspx?cite=46.12.600
+372,pierce,Direct Dog to Harass/Attack Pub. Off,1,,gross misdemeanor,public order,,assualt 3?,16.08,http://app.leg.wa.gov/rcw/default.aspx?cite=16.08&full=true
+402,pierce,DISTRIBUTE CHILD PORN,1,,class B felony,sex,,,9.68A.060,http://app.leg.wa.gov/rcw/default.aspx?cite=9.68a&full=true
+431,pierce,DRIVING W/SUSPENDED VEH REGISTRATIO,1,,gross misdemeanor,public order,,,,
+525,pierce,EXTOR 2,1,,class C felony,violent,,,9A.56.130,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.130
+532,pierce,FAIL RTN W/R,1,,unknown,public order,,unable to figure out what w/r is after the failure to return ,,
+534,pierce,FAIL TO CARRY C/S IN ORIG CONTAINER,1,,gross misdemeanor,drug,i think this is a simple misd.,not sure,69.5,http://app.leg.wa.gov/RCW/default.aspx?cite=69.50&full=true
+545,pierce,FAIL TO SECURE LOAD,1,,gross misdemeanor,public order,,"1st degree is gross misdemeanor, 2nd degree is just misdemeanor",46.61.655,https://app.leg.wa.gov/rcw/default.aspx?cite=46.61.655
+549,pierce,FAIL TO SURRENDER LICENSE TO DOL,1,,misdemeanor,public order,,,46.29.610,https://app.leg.wa.gov/rcw/default.aspx?cite=46.29.610
+565,pierce,FAILURE TO OBEY POLICE,1,,misdemeanor,public order,,same as above,46.61.015,https://app.leg.wa.gov/rcw/default.aspx?cite=46.61.015
+569,pierce,FALSE FIRE ALARM,1,,misdemeanor,public order,,,9.40.100,https://app.leg.wa.gov/rcw/default.aspx?cite=9.40.100
+589,pierce,FAMILY ABANDONMENT,1,,class C felony,public order,,,26.20.030,https://app.leg.wa.gov/rcw/default.aspx?cite=26.20.030
+613,pierce,FIREALARM/EQUIPMENT TAMPERING,1,,misdemeanor,public order,,,9.40.100,https://app.leg.wa.gov/rcw/default.aspx?cite=9.40.100
+614,pierce,FIREARM SALE/TRANSFER VIOLATION,1,,gross misdemeanor,public order,,Class C felony w/ prior conviction,9.41.115,https://app.leg.wa.gov/rcw/default.aspx?cite=9.41.115
+618,pierce,FIREWORKS PROHIBITED,1,,civil infraction,public order,,penalties found in WAC not RCW,http://app.leg.wa.gov/wac/default.aspx?cite=212-17-515,http://app.leg.wa.gov/wac/default.aspx?cite=212-17-515
+660,pierce,FURNISH ALCOHOL TO A MINOR,1,,gross misdemeanor,public order,,,66.44.270,http://apps.leg.wa.gov/rcw/default.aspx?cite=66.44.270
+691,pierce,HARASSMENT W/EXPLOSIVES,1,,class C felony,violent,,,70.74.275,https://app.leg.wa.gov/rcw/default.aspx?cite=70.74.275
+716,pierce,HIT/RUN PED,1,,class C felony,public order,,,46.52.020,https://app.leg.wa.gov/rcw/default.aspx?cite=46.52.020
+726,pierce,HOLD DEA,1,,other,other,,,,
+741,pierce,IDENT THEFT  2,1,,class C felony,public order,,,9.35.020,http://app.leg.wa.gov/rcw/default.aspx?cite=9.35.020
+747,pierce,IDENTITY THEFT CRIMINAL ATTEMPT,1,,class C felony,public order,,,9.35.020,http://app.leg.wa.gov/rcw/default.aspx?cite=9.35.020
+759,pierce,ILLEGAL DEPOSIT OF SOLID WASTE(SIP),1,,misdemeanor,public order,,considered civil infraction is waste is between 1ft^3 and 1yd^3,70.95.240,http://app.leg.wa.gov/rcw/default.aspx?cite=70.95.240
+760,pierce,ILLEGALLY OBTAIN DISABLED PLACARD,1,,misdemeanor,public order,,,46.19.050,http://app.leg.wa.gov/rcw/default.aspx?cite=46.19.050
+764,pierce,IMPROPERLY OBTAIN FINANCIAL INFO,1,,class C felony,public order,,,9.35.010,http://apps.leg.wa.gov/RCW/default.aspx?cite=9.35.010
+791,pierce,INTERF WITH STREETS,1,,misdemeanor,public order,,,,
+797,pierce,INTERFERE WITH HEALTH CARE FACILITY,1,,gross misdemeanor,public order,,,9A.50.030,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.50.030
+800,pierce,INTIM FIREARM,1,,gross misdemeanor,violent,,,http://www.codepublishing.com/WA/Everett/html/Everett10/Everett1078.html#10.78.020,http://www.codepublishing.com/WA/Everett/html/Everett10/Everett1078.html#10.78.020
+801,pierce,INTIM JUDGE (B),1,,class B felony,violent,,,9A.72.160,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.72.160
+897,pierce,MALICIOUS INJ TO RAILROAD PROPERTY,1,,FELONY CLASS B,property,,,81.60.070,
+926,pierce,MATERIAL WITNESS - MISD,1,,other,other,,,,
+937,pierce,MINOR IN POSSESSION IN PUBLIC,1,,gross misdemeanor,public order,,,66.44.270,http://apps.leg.wa.gov/rcw/default.aspx?cite=66.44.270
+954,pierce,MORTGAGE FRAUD,1,,class B felony,property,,"considered a ""serious level III offense""",19.144.090,https://app.leg.wa.gov/rcw/default.aspx?cite=19.144.090
+986,pierce,OBSCENE LIT,1,,misdemeanor,public order,,,,
+987,pierce,OBSCR ID MACHINE,1,,gross misdemeanor,public order,,,9A.56.180,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.180
+1019,pierce,OPER BOAT WHILE INTOXICATED,1,,gross misdemeanor,public order,,,79A.60.040,http://app.leg.wa.gov/rcw/default.aspx?cite=79A.60.040
+1038,pierce,OWN DOG THAT ATTACKS,1,,gross misdemeanor,public order,,,16.08.100,http://app.leg.wa.gov/RCW/default.aspx?cite=16.08.100
+1057,pierce,PEDDLING/SOLICIT W/O LICENSE,1,,misdemeanor,property,,,36.71.060,https://app.leg.wa.gov/rcw/default.aspx?cite=36.71.060
+1058,pierce,PEDDLING/SOLICT W/O LICENSE,1,,misdemeanor,property,,,36.71.060,https://app.leg.wa.gov/rcw/default.aspx?cite=36.71.060
+1063,pierce,PERJURY,1,,class B/C felony,public order,,class of felony depends on 1/2nd degree,9A.72.020,http://app.leg.wa.gov/RCW/default.aspx?cite=9A.72.020
+1100,pierce,POSS PSEUDOEPHEDRINE 15 + GRAMS,1,,,,probably a felony- see uniform controlled substacne act,,,
+1118,pierce,POSSESS INHALANT,1,,misdemeanor,drug,,,9.47A#9.47A.030,https://app.leg.wa.gov/rcw/default.aspx?cite=9.47A&full=true#9.47A.030
+1126,pierce,POSSESSION LOADED FIREARM,1,,misdemeanor,public order,,,9.41.050,http://app.leg.wa.gov/rcw/default.aspx?cite=9.41.050
+1172,pierce,PROVIDE FALSE PROOF OF INSURANCE,1,,misdemeanor,public order,,,46.30.040,https://app.leg.wa.gov/rcw/default.aspx?cite=46.30.040
+1182,pierce,PUB DIST-BLDG/APARTMENT,1,,misdemeanor,public order,,,,
+1184,pierce,PUB DIST/NOISE,1,,misdemeanor,public order,,,,
+1187,pierce,PUB NUIS,1,,misdemeanor,public order,,,,
+1216,pierce,REC/POSSESS STOLEN PROP,1,,FELONY CLASS B,property,???? ,,9A.56.150,
+1269,pierce,RECREATIONAL FISHING 1ST DEGREEE,1,,gross misdemeanor,public order,,,77.15.370,http://app.leg.wa.gov/RCW/default.aspx?Cite=77.15.370
+1280,pierce,REND CRIM ASSIST 3,1,,misdemeanor,public order,,,9A.76.090,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.76.090
+1309,pierce,RESTRICTED/OCCUPATIONAL DR LIC,1,,gross misdemeanor,public order,???,,46.20.342,
+1331,pierce,SEX EXPLICIT MAT DISPLAY,1,,misdemeanor,public order,,,9.68.130,
+1362,pierce,SEXUAL MISC W/A MINOR 2,1,,gross misdemeanor,sex,,,9A.44.096,
+1370,pierce,SOLICIT DEL CONTR SUB,1,,class C felony,drug,,,69.50.4015,
+1371,pierce,SOLICITATION PROHIBITED AREAS/LOCATIO,1,,misdemeanor,public order,,,,
+1379,pierce,STATUTORY RAPE 3,1,,unknown,sex,felony- see rape of a child,"doesn't seem to be a stat rape 3 charge in WA, though there are ones relating to sexual misconduct with minors ",,
+1389,pierce,SUSPENDED VEHICLE REGISTRATION,1,,civil infraction,public order,,,46.16A.030,http://app.leg.wa.gov/rcw/default.aspx?cite=46.16A.030
+1399,pierce,TAMPER WITH FIRE ALARM (F),1,,misdemeanor,property,,,9.40.100,https://app.leg.wa.gov/rcw/default.aspx?cite=9.40.100
+1407,pierce,TAMPERING WITH FIRE ALARM,1,,misdemeanor,property,,,9.40.100,https://app.leg.wa.gov/rcw/default.aspx?cite=9.40.100
+1421,pierce,THEFT FROM VULNERABLE ADULT 1,1,,class B felony,property,,,9A.56.400,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.400
+1448,pierce,THEFT LIVESTCK,1,,class B/C felony,property,,felony class depends on charge,9A.56.080,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.56.080
+1449,pierce,THEFT MTR VEH FUEL,1,,gross misdemeanor ,property,,,46.61.740,https://app.leg.wa.gov/rcw/default.aspx?cite=46.61.740
+1501,pierce,THREATENED PROPERTY DAMAGE DV,1,,gross misdemeanor,violent ,,considered harrassment,9a.46.020,http://apps.leg.wa.gov/RCW/default.aspx?cite=9a.46.020
+1504,pierce,THREATS TO DO HARM,1,,gross misdemeanor,violent ,,considered harrassment,9a.46.020,http://apps.leg.wa.gov/RCW/default.aspx?cite=9a.46.020
+1536,pierce,TRANSIT-SMOKING,1,,misdemeanor,public order,,,9.91#9.91.025,http://app.leg.wa.gov/rcw/default.aspx?cite=9.91&full=true#9.91.025
+1558,pierce,UNL ACT - DRUG,1,,unknown,other,,,,
+1561,pierce,UNL POS EPH W/I MAN METH,1,,class B felony,drug,,,69.50.440,http://app.leg.wa.gov/RCW/default.aspx?cite=69.50.440
+1573,pierce,UNLAW DEL SUBS IN LIEU OF CNTRL SUBS,1,,class C felony,drug ,,,69.50.4012,
+1589,pierce,UNLAWFUL FIREARMS/PARTS CONTRABAN,1,,misdemeanor,public order,,,,
+1615,pierce,UNLAWFUL TRAFFICKING WILDLIFE 2ND,1,,class C felony,public order,,,77.15.260,
+1619,pierce,UNLAWFUL USE OF A FORTIFED BLDG,1,,class C felony,drug,,,69.53.030,http://app.leg.wa.gov/rcw/default.aspx?cite=69.53.030
+1625,pierce,UPCS LEGEND W/O PRESCRIPTION,1,,misdemeanor,drug,,,69.41.030,http://app.leg.wa.gov/rcw/default.aspx?cite=69.41.030
+1627,pierce,URINATE IN PUBLIC,1,,civil infraction,public order,,,http://www.codepublishing.com/WA/Pacific/html/Pacific09/Pacific0926.html,
+1689,pierce,VIOL NARC,1,,class C felony,drug,,not specific,69.50.401,http://app.leg.wa.gov/rcw/default.aspx?cite=69.50.401
+1697,pierce,VIOL PROTECTION OR/DV,1,,gross misdemeanor,public order,,,26.50.110,http://app.leg.wa.gov/rcw/default.aspx?cite=26.50.110
+1740,pierce,WEAPONS POSS BY INTOXICATED PERSON,1,,unknown,public order,,,,
+1741,pierce,WEAPONS POSS- PRISONER CO/LOC INST,1,,class B felony,public order,,,9.94.040,https://app.leg.wa.gov/rcw/default.aspx?cite=9.94.040
+1742,pierce,WEAPONS POSS-PRISONER STATE INST,1,,class B felony,public order,,,9.94.040,https://app.leg.wa.gov/rcw/default.aspx?cite=9.94.040
+1749,pierce,WILLFULLY KILL/BE CRUEL TO ANIMALS,1,,gross misdemeanor,public order,,,9.08.070,
+1247,pierce,RECKLESS BURNING 2ND DEGREE,,,gross misdemeanor,property,,,9A.48.050,https://app.leg.wa.gov/rcw/default.aspx?cite=9A.48.050
+1599,pierce,"UNLAWFUL MAN,  SALE/OFFER SELL EXPLO",,,class C felony,public order,,,70.74.022,https://app.leg.wa.gov/rcw/default.aspx?cite=70.74.022

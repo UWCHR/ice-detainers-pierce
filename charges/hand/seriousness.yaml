@@ -1,0 +1,13 @@
+'class A felony': 6
+'class A/B felony': 6
+'class B felony': 5
+'class C felony': 4
+'class c felony': 4
+'class B/C felony': 5
+'gross misdemeanor/class B felony': 5
+'gross misdemeanor/class C felony': 4
+'gross misdemeanor': 3                                             
+'gross misdemeanor ': 3
+'misdemeanor': 2
+'civil infraction': 1
+'other': 0

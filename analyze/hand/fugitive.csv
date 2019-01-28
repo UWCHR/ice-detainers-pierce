@@ -1,0 +1,54 @@
+booking_charge_desc,booking_charge_txt,category,type
+FUGITIVE,,other,other
+FUGITIVE,ARMED ROB,class A felony,violent
+FUGITIVE,ASLT 2 ON L.E.O,class B felony,violent
+FUGITIVE,ASLT 3,class C felony,violent
+FUGITIVE,ASLT W/FIREARM,class A felony,violent
+FUGITIVE,ASLT/CRIM MISTREAT,class B felony,violent
+FUGITIVE,AST. 2/STRANGULATIO,class B felony,violent
+FUGITIVE,ATT MURDER,class A felony,violent
+FUGITIVE,BURG 1 FEL BATTERY,class A felony,property
+FUGITIVE,BURG 1/THEFT 2ND,class A felony,property
+FUGITIVE,BURG 2,class B felony,property
+FUGITIVE,BURG.,class A felony,property
+FUGITIVE,BURGLARY 1,class A felony,property
+FUGITIVE,CHECK FRAUD,class C felony,public order
+FUGITIVE,CHILD NEGLECT,class B felony,public order
+FUGITIVE,DUI W/CHILD,gross misdemeanor,public order
+FUGITIVE,DUI/ASSAULT,gross misdemeanor,public order
+FUGITIVE,ESCAPE,class B felony,public order
+FUGITIVE,FORGERY,class C felony,public order
+FUGITIVE,GRAND THEFT,class B felony,property
+FUGITIVE,ID THEFT,class B felony,public order
+FUGITIVE,LARCENY,class B felony,property
+FUGITIVE,METH,class B felony,drug
+FUGITIVE,MONTANA,other,other
+FUGITIVE,NON-SUPPORT,gross misdemeanor,public order
+FUGITIVE,NY DOC,other,other
+FUGITIVE,OREGON,other,other
+FUGITIVE,PAROLE VIOLATION,other,other
+FUGITIVE,PETTY THEFT,misdemeanor,property
+FUGITIVE,POSS METH,class B felony,drug
+FUGITIVE,POSS. METH,class B felony,drug
+FUGITIVE,PRO VIOL,other,other
+FUGITIVE,PROB VIOL/DUI,other,other
+FUGITIVE,PROB VIOL/PSP,other,other
+FUGITIVE,PROBATION VIOLATION,other,other
+FUGITIVE,PV//OREGON DOC,other,other
+FUGITIVE,RETAIL THEFT,class B felony,property
+FUGITIVE,ROB/BATTERY PROB,class A felony,violent
+FUGITIVE,ROB/KIDNAP,class A felony,violent
+FUGITIVE,ROBBERY 1,class A felony,violent
+FUGITIVE,ROBBERY/BATTERY,class A felony,violent
+FUGITIVE,SEX MISCONDUCT 3,gross misdemeanor,sex
+FUGITIVE,THEFT,class B felony,property
+FUGITIVE,THEFT 1,class B felony,property
+FUGITIVE,THEFT OF FIREARM,class B felony,property
+FUGITIVE,THEFT/B&E/FRAUD,class B felony,property
+FUGITIVE,TRAFFICK CON SUB,class C felony,drug
+FUGITIVE,UDCS,class C felony,drug
+FUGITIVE,UIBC,class C felony,public order
+FUGITIVE,UPCS,class C felony,drug
+FUGITIVE,UPCS/THEFT,class C felony,drug
+FUGITIVE,UPCS/THEFT 3,class C felony,drug
+FUGITIVE,UPCS/UDCS,class C felony,drug

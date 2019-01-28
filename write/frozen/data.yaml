@@ -1,0 +1,47 @@
+api_holds_as_percent_of_race: 1.005586592178771
+cost_per_day: 126
+earliest_booking_year: 2013
+end_date: July 2018
+end_date_full: July 31, 2018
+extra_cost_per_detainer: 5892.103430588502
+felony_percent: 68.62825367584348
+held_longer_on_detainer: 45
+hispanic_chance_of_hold: 17.0
+hispanic_hold_percent: 80.85106382978722
+hispanic_holds_as_percent_of_race: 5.984251968503937
+hispanic_percent: 8.665097397059325
+hold_count: 188
+hold_male_percent: 97.87234042553192
+hold_mean_jail_days: 73.61813312647747
+hold_median_jail_days: 34.767361111111114
+hold_paid_bail: 3.0
+hold_paid_bail_percent: 0.015957446808510637
+hold_percent: 0.6413536656091153
+hold_pr_percent: 4.7976011994003
+imm_hold_impact_higher: 3.8950581192886577
+imm_hold_impact_lower: 1.8634705123721789
+imm_hold_impact_multiplier: 3.743908997415814
+imm_hold_impact_percent: 274.3908997415814
+male_percent: 75.15095691331491
+max_charge_topcout: 10.0
+max_charges: 20.0
+max_jail_days: 1314.5541666666666
+min_charges: 0.0
+misdemeanor_percent: 31.20117354074984
+no_hold_mean_jail_days: 26.855407486886175
+no_hold_median_jail_days: 3.154861111111111
+no_hold_paid_bail: 5762.0
+no_hold_paid_bail_percent: 0.19783690987124464
+no_hold_pr_percent: 11.06577768932232
+overall_mean_jail_days: 27.155321941914433
+overall_median_jail_days: 3.1875
+pd_version: 0.23.4
+regression_n: 29313
+rsquared_adj: 0.3148813590251248
+start_date: October 2016
+start_date_full: October 1, 2016
+sys_version: "3.6.5 |Anaconda custom (x86_64)| (default, Apr 26 2018, 08:42:37) \n\
+  [GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final)]"
+total_extra_cost: 1107715.4449506383
+total_records: 71010
+unique_booking_ids: 29313

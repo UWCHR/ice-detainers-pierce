@@ -1,0 +1,525 @@
+release_disposition_desc,jurisdiction_cd
+Administrative Booking,SUP
+Administrative Booking,TACM
+Bail Bond,SUP
+Bail Bond,TACM
+Bail Bond,KINS
+Bail Bond,SKGS
+Bail Bond,FEDM
+Bail Bond,KITD
+Bail Bond,FIFM
+Bail Bond,PD1
+Bail Bond,DMM
+Bail Bond,YELM
+Bail Bond,LKM
+Bail Bond,KING
+Bail Bond,PUYM
+Bail Bond,ROYM
+Bail Bond,UPM
+Bail Bond,SEAM
+Bail Bond,TKWM
+Bail Bond,RENM
+Bail Bond,GHSC
+Bail Bond,BONM
+Bail Bond,WTMS
+Bail Bond,SNOS
+Bail Bond,RUSM
+Bail Bond,LCYM
+Bail Bond,JDKC
+Bail Bond,LEWD
+Bail Bond,GIGM
+Bail Bond,THUD
+Bail Bond,WHAD
+Bail Bond,UKD
+Bail Bond,LKD
+Bail Bond,SHOD
+Bail Bond,KTTS
+Bail Bond,AUBM
+Bail Bond,FIRM
+Bail Bond,SUMM
+Bail Bond,DOC
+Bail Bond,MASS
+Bail Bond,EVED
+Bail Bond,KIRM
+Bail Bond,DUPM
+Bail Bond,BUCM
+Bail Bond,ISSD
+Bail Bond,EATM
+Bail Bond,PACM
+Bail Bond,BELD
+Bail Bond,THSC
+Bail Bond,OLYM
+Bail Bond,KENM
+Bail Bond,SEAD
+Bail Bond,FEDD
+Bail Bond,STEI
+Bail Bond,OKAD
+Bail Bond,SETD
+Bail Bond,KSPS
+Bail Bond,YKMS
+Bail Bond,POM
+Bail Bond,SPOD
+Bail Bond,SKAD
+Bail Bond,COW
+Bail Bond,EGM
+Bail Bond,JFFS
+Bail Bond,MIMC
+Bail Bond,BREM
+Bail Bond,CHCD
+Balance of Sentence Suspended,SUP
+Breaking the Cycle,SUP
+Cancel Detainer,DOC
+Cancel Detainer,AFA
+Cancel Detainer,JRA
+Cancel Detainer,KINS
+Cancel Detainer,TKWM
+Cancel Detainer,OTHR
+Cancel Detainer,PD1
+Cancel Detainer,JUV
+Cancel Detainer,SUP
+Cancel Detainer,JDKC
+Cancel Detainer,UKD
+Cancel Detainer,SKMS
+Cancel Detainer,IMM
+Cancel Detainer,FEDM
+Cancel Detainer,CLAD
+Cancel Detainer,KING
+Cancel Detainer,SPKS
+Cash Bail,PD1
+Cash Bail,FRNS
+Cash Bail,SUP
+Cash Bail,TACM
+Cash Bail,LKM
+Cash Bail,THSC
+Cash Bail,CSM
+Cash Bail,FIRM
+Cash Bail,SNOS
+Cash Bail,PACM
+Cash Bail,WHAD
+Cash Bail,RUSM
+Cash Bail,TKWM
+Cash Bail,KENM
+Cash Bail,KINS
+Cash Bail,JFFS
+Cash Bail,CHCD
+Cash Bail,BENT
+Cash Bail,RENM
+Cash Bail,KTTM
+Cash Bail,SUMM
+Cash Bail,BONM
+Cash Bail,KING
+Cash Bail,EATM
+Cash Bail,EGM
+Cash Bail,KSPS
+Cash Bail,PUYM
+Check,PD1
+Check,TACM
+Check,SUP
+Check,WWCS
+Check,RUSM
+Court Order,TACM
+Court Order,LKM
+Court Order,DOC
+Court Order,PD1
+Court Order,UPM
+Court Order,GIGM
+Court Order,JUV
+Court Order,SUP
+Court Order,PUYM
+Court Order,STEI
+Court Order,KING
+Court Order,MILM
+Court Order,FIRM
+Court Order,OTHR
+Court Order,EATM
+Court Order,BONM
+Court Order,FIFM
+Court Order,ORTM
+Court Order,RUSM
+Court Order,SUMM
+Court Order,DUPM
+Credit for Time Served,DOC
+Credit for Time Served,PD1
+Credit for Time Served,SUP
+Credit for Time Served,TACM
+Credit for Time Served,FIFM
+Credit for Time Served,LKM
+Credit for Time Served,PUYM
+Credit for Time Served,UPM
+Credit for Time Served,GIGM
+Credit for Time Served,FIRM
+Credit for Time Served,ORTM
+Credit for Time Served,STEI
+Credit for Time Served,SUMM
+Credit for Time Served,ROYM
+Credit for Time Served,JUV
+Credit for Time Served,RUSM
+Credit for Time Served,EGM
+DEA,SUP
+Deferred Sentence,SUP
+Deferred Sentence,PD1
+Deferred Sentence,TACM
+Deferred Sentence,UPM
+Department of Corrections,SUP
+DETOX CENTER,PD1
+Dismissed,SUP
+Dismissed,PD1
+Dismissed,PUYM
+Dismissed,TACM
+Dismissed,UPM
+Dismissed,FIFM
+Dismissed,LKM
+Dismissed,STEI
+Dismissed,KING
+Dismissed,JUV
+Dismissed,ROYM
+Dismissed,FIRM
+Dismissed,RUSM
+Dismissed,GIGM
+Dismissed,KSPS
+Drug Court,SUP
+Escape Breaking the Cycle(BTC),SUP
+Escape,TACM
+Escape,PD1
+Escape,KING
+Escape,SUP
+Escape,THSC
+Extradition,SUP
+Extradition,OTHR
+FBI,FED
+FBI,IMM
+Fine Paid,SUP
+Immigration,FED
+Immigration,IMM
+Immigration,SUP
+Immigration,DOC
+Medical Dismissal,KENM
+Mental Health Professional,SUP
+Mental Health Professional,PD1
+Mini-Chain,SEAM
+Mini-Chain,RENM
+Mini-Chain,THUD
+Mini-Chain,S03
+Mini-Chain,KINS
+Mini-Chain,THSC
+Mini-Chain,FEDM
+Mini-Chain,BELD
+Mini-Chain,SUP
+Mini-Chain,SETD
+Mini-Chain,KITD
+Mini-Chain,KENM
+Mini-Chain,PACS
+Mini-Chain,YELM
+Mini-Chain,LEWD
+Mini-Chain,AUBM
+Mini-Chain,GRAD
+Mini-Chain,KING
+Mini-Chain,OAKM
+Mini-Chain,LKD
+Mini-Chain,DOC
+Mini-Chain,KSPS
+Mini-Chain,IMM
+Mini-Chain,CLAD
+Mini-Chain,LEWS
+Mini-Chain,DMM
+Mini-Chain,SND2
+Mini-Chain,LCYM
+Mini-Chain,FRNS
+Mini-Chain,SNOS
+Mini-Chain,TKWM
+Mini-Chain,ISLS
+Mini-Chain,OLYM
+Mini-Chain,CASD
+Mini-Chain,MASS
+Mini-Chain,SPKS
+Mini-Chain,BREM
+Mini-Chain,S06
+Mini-Chain,PD1
+Mini-Chain,GCSC
+Mini-Chain,ABEM
+Mini-Chain,KTTS
+Mini-Chain,SKMS
+Mini-Chain,OTHR
+Mini-Chain,UKD
+Mini-Chain,CHCD
+Mini-Chain,FED
+Mini-Chain,TACM
+Mini-Chain,BUCM
+Mini-Chain,JFFS
+Mini-Chain,COW
+Mini-Chain,MARM
+Mini-Chain,POM
+Mini-Chain,WAM
+Mini-Chain,ISSD
+Mini-Chain,SHOD
+Mini-Chain,SPOD
+Mini-Chain,BENT
+Mini-Chain,KIRM
+Mini-Chain,MIMC
+Mini-Chain,WHAD
+Mini-Chain,S08
+Mini-Chain,JUVK
+Mini-Chain,MASD
+Mini-Chain,STVS
+Mini-Chain,EVEM
+Mini-Chain,YKMS
+Mini-Chain,SKAD
+Mini-Chain,SKGS
+Mini-Chain,MILM
+Mini-Chain,GHSC
+Mini-Chain,S05
+Mini-Chain,KEND
+Mini-Chain,LINM
+Mini-Chain,LINS
+Mini-Chain,POUM
+Mini-Chain,LYNM
+Mini-Chain,FEDD
+Mini-Chain,MTVM
+Mini-Chain,TULA
+Mini-Chain,LKM
+Mini-Chain,EDMM
+Mini-Chain,NED
+Mini-Chain,SEAD
+Mini-Chain,EVED
+Mini-Chain,JRA
+Mini-Chain,OKAD
+Mini-Chain,YAKD
+Mini-Chain,PNDS
+Mini-Chain,GRA1
+Mini-Chain,DOUS
+Mini-Chain,EMMC
+Mini-Chain,PACM
+Mini-Chain,WTMS
+Mini-Chain,S37
+Mini-Chain,WHTS
+Mini-Chain,MVM
+Mini-Chain,ISLD
+No Charges Filed,SUP
+No Charges Filed,PD1
+No Charges Filed,TACM
+No Charges Filed,STEI
+No Charges Filed,UPM
+No Charges Filed,LKM
+NCF Dist,SUP
+NCF Dist,PD1
+NCF Dist,BONM
+NCF Final,SUP
+NCF Final,PD1
+NCF Final,TACM
+NCF Final,LKM
+NCF Final,EGM
+NCF Final,UPM
+"NCF, LAKEWOOD",SUP
+"NCF, LAKEWOOD",PD1
+"NCF, Pending Inv",SUP
+"NCF, Pending Inv",PD1
+"NCF, Pending Inv",TACM
+"NCF, Pending Inv",EGM
+NCF Sup,PD1
+NCF Sup,TACM
+NCF TacM,SUP
+NCF TacM,PD1
+No Prob Cause,SUP
+No Prob Cause,TACM
+No Prob Cause,PD1
+No Prob Cause,UPM
+Not Guilty Verdict,SUP
+Not Guilty Verdict,PD1
+Not Guilty Verdict,TACM
+Not Guilty - Insanity,SUP
+PDC,SUP
+PDC,PD1
+PDC,TACM
+PDC,UPM
+PDC,FIRM
+PDC,DOC
+PDC,RUSM
+PDC,EATM
+PDC,SUMM
+PDC,BONM
+PDC,JRA
+PR,GIGM
+PR,FIRM
+PR,LKM
+PR,TACM
+PR,BONM
+PR,ORTM
+PR,SUP
+PR,ROYM
+PR,SUMM
+PR,PD1
+PR,RUSM
+PR,UPM
+PR,PUYM
+PR,STEI
+PR,EGM
+PR,EATM
+PR,MILM
+PR,JUV
+PR,BUCM
+PR,PACM
+PR,SUPM
+PR,DOC
+PR,DUPM
+Police Department,TACM
+Police Department,PUYM
+Police Department,MILM
+Police Department,SUMM
+Police Department,LKM
+Police Department,EATM
+Police Department,BONM
+Police Department,FIFM
+Police Department,PD1
+Police Department,SUP
+Police Department,ORTM
+Police Department,DOC
+Police Department,GIGM
+Police Department,BUCM
+Police Department,S03
+Police Department,FEDM
+Police Department,IMM
+Police Department,S06
+Police Department,AFA
+Police Department,KINS
+Police Department,THSC
+Police Department,ENUM
+Police Department,PACM
+Police Department,KING
+Police Department,LEWD
+Police Department,KSPS
+Police Department,KEND
+Police Department,KIRM
+Probation/Parole Officer,JRA
+Probation/Parole Officer,DOC
+Probation/Parole Officer,SUP
+Probation/Parole Officer,JUV
+Probation/Parole Officer,OTHR
+Probation/Parole Officer,KSPS
+Progress House,DOC
+Quashed,KING
+Quashed,S03
+Quashed,SUP
+Quashed,KINS
+Quashed,JUV
+Quashed,PD1
+Quashed,MASS
+Quashed,BONM
+Quashed,GCSC
+Release without charge,OTHR
+Release without charge,SUP
+Release without charge,RUSM
+Release without charge,TACM
+Release without charge,KEND
+Release without charge,BONM
+Release without charge,KINS
+Release without charge,PD1
+Release without charge,PUYM
+Release without charge,DAYM
+Release without charge,POM
+Release without charge,SEAM
+Release without charge,MASS
+Release without charge,LKM
+Release without charge,MILM
+Release without charge,COLD
+Release without charge,FED
+Release without charge,FIFM
+Release without charge,KING
+Release without charge,KTTM
+Release without charge,KITD
+Release without charge,DOC
+Release without charge,WHAD
+SIP,TACM
+SIP,PD1
+SIP,UPM
+SIP,EGM
+SIP,RUSM
+SIP,LKM
+SIP,SUP
+SIP,EATM
+SIP,FIRM
+SIP,SUMM
+SIP,BONM
+SIP,JUV
+Self,SUP
+Self,PD1
+Sheriff's Office,DOC
+Sheriff's Office,SUP
+Sheriff's Office,OTHR
+Sheriff's Office,KSPS
+Sheriff's Office,TACM
+Suspended Sentence,TACM
+Suspended Sentence,PD1
+Suspended Sentence,SUP
+Suspended Sentence,LKM
+Suspended Sentence,FIFM
+Suspended Sentence,STEI
+Suspended Sentence,FIRM
+Suspended Sentence,UPM
+Suspended Sentence,RUSM
+Suspended Sentence,EGM
+Suspended Sentence,PUYM
+Teletype Release,THSC
+Time Payments,SUP
+Time Payments,BONM
+Time Payments,PD1
+Time Payments,DOC
+Time Payments,TACM
+"Time Served, Weekend",SUP
+Time Served,TACM
+Time Served,PD1
+Time Served,SUMM
+Time Served,DOC
+Time Served,KINS
+Time Served,SUP
+Time Served,LKM
+Time Served,RUSM
+Time Served,UPM
+Time Served,GIGM
+Time Served,FIFM
+Time Served,ORTM
+Time Served,KSPS
+Time Served,JRA
+Time Served,EGM
+Time Served,MILM
+Time Served,EATM
+Time Served,BONM
+Time Served,PUYM
+US Marshall,FED
+US Marshall,SUP
+US Marshall,DOC
+US Marshall,IMM
+US Marshall,OTHR
+WSI Chain,SUP
+WSI Chain,RENM
+WSI Chain,DOC
+WSI Chain,KING
+WSI Chain,PD1
+WSI Chain,IMM
+WSI Chain,FED
+WSI Chain,TACM
+WSI Chain,KINS
+WSI Chain,POM
+WSI Chain,KSPS
+WSI Chain,JRA
+WSI Chain,THSC
+WSI Chain,SNOS
+WSI Chain,UPM
+WSI Chain,OTHR
+WSI Chain,GHSC
+WSI Chain,LKM
+WSI Chain,S02
+WSI Chain,FRNS
+WSI Chain,JFFS
+WSI Chain,LEWS
+WSI Chain,KTTS
+WSI Chain,MASS
+WSI Chain,KENM
+WSI Chain,JDKC
+WSI Chain,BUCM
+WSI Chain,JUV
+WSI Chain,PUYM
+Western State Hospital,SUP
+Western State Hospital,OTHR
+Western State Hospital,DOC
+Western State Hospital,PD1
+Western State Hospital,KING

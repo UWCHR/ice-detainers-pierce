@@ -1,0 +1,423 @@
+%
+% Authors: PN
+% Maintainers: PN
+% Copyright: 2018, UWCHR, GPL v2 or later
+% ============================================
+% JailData/county/pierce/write/src/pierce-report.Rnw
+%
+
+% \documentclass[12pt]{amsart}
+\documentclass[12pt]{report}\usepackage[]{graphicx}\usepackage[]{color}
+%% maxwidth is the original width if it is less than linewidth
+%% otherwise use linewidth (to make sure the graphics do not exceed the margin)
+\makeatletter
+\def\maxwidth{ %
+  \ifdim\Gin@nat@width>\linewidth
+    \linewidth
+  \else
+    \Gin@nat@width
+  \fi
+}
+\makeatother
+
+\definecolor{fgcolor}{rgb}{0.345, 0.345, 0.345}
+\newcommand{\hlnum}[1]{\textcolor[rgb]{0.686,0.059,0.569}{#1}}%
+\newcommand{\hlstr}[1]{\textcolor[rgb]{0.192,0.494,0.8}{#1}}%
+\newcommand{\hlcom}[1]{\textcolor[rgb]{0.678,0.584,0.686}{\textit{#1}}}%
+\newcommand{\hlopt}[1]{\textcolor[rgb]{0,0,0}{#1}}%
+\newcommand{\hlstd}[1]{\textcolor[rgb]{0.345,0.345,0.345}{#1}}%
+\newcommand{\hlkwa}[1]{\textcolor[rgb]{0.161,0.373,0.58}{\textbf{#1}}}%
+\newcommand{\hlkwb}[1]{\textcolor[rgb]{0.69,0.353,0.396}{#1}}%
+\newcommand{\hlkwc}[1]{\textcolor[rgb]{0.333,0.667,0.333}{#1}}%
+\newcommand{\hlkwd}[1]{\textcolor[rgb]{0.737,0.353,0.396}{\textbf{#1}}}%
+\let\hlipl\hlkwb
+
+\usepackage{framed}
+\makeatletter
+\newenvironment{kframe}{%
+ \def\at@end@of@kframe{}%
+ \ifinner\ifhmode%
+  \def\at@end@of@kframe{\end{minipage}}%
+  \begin{minipage}{\columnwidth}%
+ \fi\fi%
+ \def\FrameCommand##1{\hskip\@totalleftmargin \hskip-\fboxsep
+ \colorbox{shadecolor}{##1}\hskip-\fboxsep
+     % There is no \\@totalrightmargin, so:
+     \hskip-\linewidth \hskip-\@totalleftmargin \hskip\columnwidth}%
+ \MakeFramed {\advance\hsize-\width
+   \@totalleftmargin\z@ \linewidth\hsize
+   \@setminipage}}%
+ {\par\unskip\endMakeFramed%
+ \at@end@of@kframe}
+\makeatother
+
+\definecolor{shadecolor}{rgb}{.97, .97, .97}
+\definecolor{messagecolor}{rgb}{0, 0, 0}
+\definecolor{warningcolor}{rgb}{1, 0, 1}
+\definecolor{errorcolor}{rgb}{1, 0, 0}
+\newenvironment{knitrout}{}{} % an empty environment to be redefined in TeX
+
+\usepackage{alltt}
+\usepackage{geometry} % see geometry.pdf on how to lay out the page. There's lots.
+\geometry{letterpaper} % or letter or a5paper or ... etc
+\usepackage[utf8]{inputenc} % Any char, eg éçñ
+\usepackage{graphicx} % Add graphics capabilities
+\usepackage{flafter} % Don't place floats before their definition
+\usepackage{natbib} % use author/date bibliographic citations
+\usepackage{amsmath,a mssymb} % Better maths support & more symbols
+\usepackage{bm} % Define \bm{} to use bold math fonts
+% \usepackage{memhfixc} % remove conflict between the memoir class & hyperref
+\usepackage{pdfsync} % enable tex source and pdf output syncronicity
+% \usepackage{draftwatermark}
+% \usepackage[spanish]{babel}
+\usepackage[hyphens]{url}
+\usepackage{hyperref}
+\hypersetup{colorlinks,urlcolor=blue}
+\usepackage{lmodern}
+\usepackage{textcomp}
+\usepackage{lastpage}
+\usepackage{booktabs}
+\usepackage{import}
+\usepackage[yyyymmdd]{datetime}
+\usepackage{fancyhdr}%
+\usepackage{longtable}
+\usepackage{tabu}
+\usepackage{tabularx}
+\usepackage{siunitx}
+\usepackage{makecell}
+\usepackage{threeparttablex}
+\usepackage{siunitx}
+\usepackage{numprint}
+\npthousandsep{\,}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+
+\sisetup{
+group-four-digits=true,
+group-separator = {,},
+round-mode=places,
+round-precision=2,
+round-integer-to-decimal=true,
+per-mode=symbol,
+zero-decimal-to-integer=true
+}
+
+
+
+\graphicspath{ {./input/} }
+
+
+\setcounter{section}{1}
+\DeclareRobustCommand{\subtitle}[1]{\\#1}
+
+\title{Unequal Justice: Measuring the Impact of ICE Detainers on Jail Time in Pierce County}
+
+\author{University of Washington Center for Human Rights}
+
+\date{January 30, 2019}
+
+%%% BEGIN DOCUMENT
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\begin{document}
+
+\pagenumbering{alph}
+\maketitle
+
+\renewcommand{\subtitle}[1]{}
+
+
+
+
+
+\pagenumbering{arabic}
+\section*{Key findings}
+
+Inmate booking and release data from Pierce County jails shows that during the period from October 2016 through July 2018, over 188 inmates were the subject of detainer requests by Immigration and Customs Enforcement (ICE). Latinx inmates are heavily overrepresented in the population subjected to ICE detainers. Statistical analysis shows that, when controlling for other factors, inmates with an ICE detainer on their booking sheet were detained \num[round-precision=1]{3.7349888} times longer than inmates without detainer requests, a disparity which raises significant human rights concerns.
+
+\section*{Background}
+
+In recent years, immigrant rights advocates have focused considerable attention on federal immigration authorities' use of detainers to facilitate their access to noncitizen inmates whom they intend to take into custody upon their release from local jails. A detainer (or ``immigration hold'') is a written request from Immigration and Customs Enforcement (ICE) to a local, state, or federal law enforcement agency regarding an inmate currently in that agency's custody.\footnote{Customs and Border Protection also uses detainers, which raise similar human rights concerns. However, we focus here on Pierce County, where only ICE is actively lodging detainers; for this reason, we refer only to "ICE detainers" in this report.} ICE uses detainers to request that these agencies hold an inmate for up to 48 hours past their release date in order to permit ICE to investigate and potentially initiate deportation proceedings against them; ICE detainers also request that the law enforcement agency notify ICE as early as possible of the inmate's date of release.
+
+As a result of sustained advocacy and a number of important court rulings, jail policies on ICE detainers have changed significantly in Washington state. Today, most counties in Washington say they no longer hold inmates past their release date on ICE detainers, though other forms of collaboration between jails and ICE/CBP have continued, most notably the practice of notifying ICE of an inmate's release date. In this context, the University of Washington Center for Human Rights set out to examine how detainers impact incarceration in several key counties, starting with Pierce County. Specifically, we were interested in examining the impact on the length of incarceration in light of new policies refusing federal requests to hold noncitizen inmates longer than their sentence. We wanted to assess whether this policy change had brought detainered inmates' experience more in line with that of non-detainered inmates.
+
+In Pierce County, we found that inmates with detainers remained in jail \num[round-precision=1]{3.7349888} times longer than non-detainered inmates, when controlling for other factors including the number, type, and severity of charges. In this report we explain these findings, the multiple tests we carried out to ensure their accuracy, and their human rights implications. Our bottom-line finding is that in Pierce County today, justice is not administered equally as a result of the way the county responds to detainers.
+
+\subsection*{ICE detainers: Controversial, and on the rise again}
+
+Beginning under the second George W. Bush administration, and accelerating into the Obama years, detainers became the centerpiece of a series of programs (such as Secure Communities, the Priority Enforcement Program, and the Criminal Alien Program) that sought to compel greater collaboration between the institutions of criminal justice and immigration enforcement. Their use peaked in 2011 according to a \href{<http://trac.syr.edu/immigration/reports/458/>}{2016 report by Syracuse University's Transactional Records Clearinghouse (TRAC)}, but dropped off later due, in part, to their heavy criticism on civil rights and constitutional grounds. In the Trump years, attention to detainers has again increased, both in terms of the number of detainers issued by ICE, and the administration's public excoriation of ``sanctuary'' jurisdictions for refusing detainer requests.\footnote{It is difficult to know how widespread the phenomenon of refusing detainer requests actually is, since ICE's own data about the practice was revealed to be flawed following public pronouncements on this topic in early 2017. Beginning in January 2017, ICE curtailed its practice of providing the public limited information about its use of detainers, including matters such as whether those with detainers had ever been convicted of a crime, and how often detainers lead to deportation. This makes research rooted in local records---like those, in this case, from Pierce County---all the more important in shedding light on the human rights impacts of federal immigration enforcement.}
+
+The criticism of detainers by advocates and courts has been multifaceted, ranging from concerns that they facilitate racial profiling; weaken immigrant communities' trust in law enforcement; foist the costs of federal immigration enforcement on local agencies; and violate individuals' rights under the Fourth and Fifth Amendments to the U.S. Constitution. In Washington state, the 2014 ruling by a federal magistrate judge in \emph{Miranda-Olivares v. Clackamas County} led many counties to adopt policies that refuse to hold people on ICE detainers unless the detainer is accompanied by a judicial warrant. This ruling held that once a local law enforcement agency loses the legal basis for detaining an inmate---whether because charges are dropped, bail has been posted, the inmate's sentence has been served, or for other reasons---to maintain that inmate in custody would effectively constitute a new arrest; to do so on the basis of ICE's detainer request violates the Fourth Amendment to the U.S. Constitution because ICE's request alone does not fulfill the requirement of a judicial finding of probable cause.
+
+As a result of the controversy they have generated, detainers have gone through various iterations.\footnote{The records reviewed here included those involving detainers filed using the I-247D and I-247N forms, introduced in May 2015, and the I-247A form, introduced in March 2017 and currently in use as of this writing. We examined full booking files, including associated detainer forms, for a subset of 126 inmates subject to holds during the period from October 2016 through December 2017; none of these files included a judicial warrant.} While earlier versions of the form (including the I-247D) asked that jails hold an inmate for up to 48 hours beyond the time they would otherwise be released and inform ICE prior to release, the current form (I-247A) asks only for notification prior to release.
+
+\subsection*{Pierce County detainer policy: Don't hold, but notify}
+
+Today, Pierce County claims it does not hold inmates beyond their release date based solely on an immigration detainer,\footnote{Among the 188 cases with ICE detainers analyzed here, we did note that in at least 45 cases, inmates were held longer on immigration holds than for any other booking charge, most by just a few hours, according to Pierce County's own inmate tracking system. Without further research it is difficult to determine whether this reflects jail practice of holding inmates longer solely based on ICE detainers, or record-keeping anomalies.} but does notify ICE of an impending release, enabling the federal agency to take custody of the inmate upon their release. Following \emph{Clackamas}, \href{https://www.ilrc.org/sites/default/files/resources/pierce_county.pdf}{Pierce County Sheriff Paul Pastor issued a letter to then-acting Director of ICE}, Daniel Ragsdale (now Executive Vice President of GEO Group\footnote{The GEO Group is a private prison company which operates immigration detention centers including the Northwest Detention Center in Tacoma, the county seat of Pierce County.}) citing the decision and stating that because of these concerns about probable cause for detention, Pierce County will not honor detainers unless accompanied by a judicial warrant or court order. Sheriff Pastor wrote, ``I cannot honor an immigration detainer that a Federal court has held would violate an individual's civil rights. Hence I wish to clarify the need for a judicial finding of probable cause to extend an inmate's custody beyond that which has been ordered in their criminal case.''
+
+Pierce County has no legal obligation to notify ICE of a detainered inmate's impending release; this practice is entirely voluntary. In other jurisdictions, sheriffs often justify the practice based on public safety concerns, suggesting that if the individual whose release is imminent represents a threat to the community, it is in the interest of public safety to facilitate their removal via deportation. Yet many individuals who pass through jails are never convicted of any crime, or only of misdemeanor offenses. According to \href{http://trac.syr.edu/phptools/immigration/apprehend/}{ICE data made available by Syracuse University's TRAC in September 2018}, in Pierce County between October 2014 and October 2017, 26 inmates with no convictions whatsoever were handed over to ICE, as were an additional 12 whose most serious conviction was a traffic offense (not including DUIs). Taken together, this represents more than a quarter of all inmates released to ICE by Pierce County during this period, with no plausible public safety justification.
+
+\href{http://trac.syr.edu/phptools/immigration/detain/}{Additional data made available by Syracuse University's TRAC} shows that Pierce County received a peak of 56 detainer requests during the month of July 2010, a rate that declined to 10 or fewer per month by late 2014. Yet monthly figures begin to climb again in February 2017. Given the accelerating use of detainers under the Trump administration, it is particularly important to assess the extent to which Pierce County's policy for handling detainers addresses core human rights concerns.
+
+\subsection*{Prior research finds detainers increase length of jail stays}
+
+Such an assessment requires not only an examination of legal principles, but an empirical examination of how the county's practices translate into individuals' experiences with the justice system. Multiple studies on this topic have shown that detainers dramatically increase the length of jail stays. For example, \href{https://immigrantjustice.org/sites/default/files/NYC%20Detainer%20Report.pdf}{Shahani (2010)} found that, in New York City, detainered inmates with drug-related charges spent, on average, 73 days in jail longer than those without detainers, controlling for race and offense level. Similarly, \href{https://repositories.lib.utexas.edu/bitstream/handle/2152/15143/ICE_TravisCounty.pdf?sequence=2}{Guttin (2010)} found that in Travis County, Texas, detainers had the ``unintended consequence'' of making the affected inmates ineligible for bond, leading to jail stays triple the length, on average, of non-detainered inmates. And \href{https://onlinelibrary.wiley.com/doi/abs/10.1111/lasr.12120}{Beckett and Evans (2015)}, in a study of detainer use in King County in 2011, found that ICE detainers increased the length of inmates' stay by 170 percent. But these studies were conducted before many counties, including Pierce, began the practice of declining detainers. We might, therefore, expect that today, the presence of a detainer affects the length of detention significantly less.
+
+On the other hand, Guttin (2010) attributes the longer jail stays \emph{not} to the 48 hours added to the end of an inmates' stay per ICE request, but rather to the practice of denying bail to detainered inmates. Beckett and Evans (2015) show that detainers influence decision-making about pretrial release, eligibility for work release programs, and alter motivations for plea bargaining. In other words, detainered inmates face a fundamentally altered experience of justice which results in longer time behind bars. \textbf{This suggests that in refusing to honor ICE's request to hold inmates beyond their release date, jurisdictions like Pierce County may not have addressed the underlying ways detainers alter the experience of detention for those targeted---and hence, may not have alleviated the rights concerns raised by advocates. Indeed, this is what our study found.} After a detailed discussion of our methodology, below, we offer some reflections on the human rights implications of these findings.
+
+\section*{Methods}
+
+Under Washington state's public records law, we requested a dataset of all individuals released from any Pierce County correctional facility between the dates of October 1, 2016 and July 31, 2018. After dropping some records in the process of cleaning the data, as described below, this data set includes information regarding 29312 cases of individuals released during this period.\footnote{The individuals released during this period may have been booked during this period or prior; the earliest bookings included in the dataset occurred in 2013. This analysis does not attempt to control for multiple repeat bookings of the same individual.}
+
+The information includes booking and release dates; a description of each booking charge, and associated release disposition for each charge; court cause number assigned for a charge; and various demographic characteristics including gender, race, and birthplace, for each booked person. Gender is reported as a mutually-exclusive male/female binary. Race is also reported as a mutually-exclusive variable with six categories: Black, Hispanic, White, American Indian/Alaskan, Asian/Pacific Islander, and Unknown. The dataset does not differentiate between race and ethnicity.\footnote{While Beckett and Evans report that, in King County, ethnicity (specifically Hispanicity) is recorded in interviews conducted within 72 hours of booking, leading to a possible undercount of Hispanics released before this interview, data for Pierce County suggests that all race data is recorded at time of booking. Demographics of inmates released within less than 72 hours are similar to those of inmates held for longer periods. As an additional check against the possible undercounting of ethnic groups---a common challenge with institutional data involving Latinx populations---we also generated predicted race values for each inmate based on analysis of first and last names. We ran a regression using this predicted race model; it produced similar results to the regression run with Pierce County's original racial accounting.}
+
+\subsection*{Latinx inmates over-represented for ICE detainers}
+
+In all, 188 bookings (\num{0.6413755} percent of the total) in our sample were of individuals subject to ICE detainers.\footnote{In total, we identified 204 bookings of individuals subject to ICE detainers; 16 of these cases were dropped in the data cleaning process based on the same criteria applied to other records.} Men were over-represented among people subject to ICE detainers: \num{97.8723404} percent of those with detainers, versus \num{75.1535207} percent of other inmates, were male. Compared to inmates without detainers, individuals identified as ``Hispanic'' were also over-represented in this group: more than four-fifths (\num{80.8510638} percent) of inmates with immigration holds were coded ``Hispanic'' by Pierce County, compared to only \num{8.665393} percent of all inmates. Indeed, Latinx\footnote{We use the term ``Latinx'' to refer to those coded as ``Hispanic'' by Pierce County.} inmates had about a 1 in 17 chance (\num{5.984252} percent) of being subject to a detainer if booked into a Pierce County correctional facility. Asians/Pacific Islanders were the next most likely group, at \num{1.0055866} percent (see Table \ref{tab:RaceHold}).
+
+% table 1
+
+
+\renewcommand\theadalign{bl}
+\renewcommand\cellalign{b}
+\renewcommand\theadfont{\bfseries}
+\renewcommand\theadgape{\Gape[2pt]}
+\renewcommand\cellgape{\Gape[2pt]}
+
+\begin{table}[h!]
+  \newrobustcmd{\B}{\bfseries}
+  \begin{center}
+    \caption{ICE detainers by racial category as recorded by Pierce County}
+    \label{tab:RaceHold}
+    \begin{tabularx}{1\textwidth}{lrrrr}
+      \thead[l]{\textbf{Race}} &
+      \thead[r]{\textbf{Total} \\ \textbf{bookings}} &
+      \thead[r]{\textbf{Race as \%} \\ \textbf{of total}} &
+      \thead[r]{\textbf{Bookings with} \\ \textbf{ICE detainers}} & 
+      \thead[r]{\textbf{\% with ICE} \\ \textbf{detainer}} \\
+      \hline
+      \makecell[l]{White} & 16918 & 57.72\% & 9 & 0.05\% \\
+      \makecell[l]{Black} & 7110 & 24.26\% & 8 & 0.11\% \\
+      \makecell[l]{Hispanic} & 2540 & 8.67\% & 152 & 5.98\% \\
+      \makecell[l]{Asian/ \cr Pacific Islander} & 1790 & 6.11\% & 18 & 1.01\% \\
+      \makecell[l]{American Indian/ \cr Alaskan Native} & 892 & 3.04\% & 0 & 0\% \\
+      \makecell[l]{Unknown} & 62 & 0.21\% & 1 & 1.61\% \\
+      \hline
+      \makecell[l]{Total} & 29312 & 100\% & 188 & 0.64\% \\
+    \end{tabularx}
+  \end{center}
+\end{table}
+
+This raises important questions about whether Pierce County is facilitating racial profiling by ICE. ICE agents gain access to Pierce County's jail roster, which is published online, and to its inmates, through regular visits to the jail; they can then check individual inmates' immigration status using various databases to which they have access. Yet how does ICE decide which inmates to interview, or whose names to run through databases? It is possible that they run every name through databases, and/or that they interview every inmate, but it is also possible that they select individuals based on racial/ethnic characteristics---including having Latinx-sounding surnames---as jail administrators in other jurisdictions have alleged. (In Santa Fe, New Mexico, for example, \href{https://www.abqjournal.com/news/state/26010444229newsstate05-26-10.htm}{ICE access to the jail was curtailed after the jail director concluded that ICE was racially profiling inmates}, leading to unequal enforcement outcomes based on race/ethnicity.)
+
+\subsection*{Outcome variable: length of jail stay}
+
+We examined whether the presence of a detainer led to a longer jail stay among Pierce County inmates. To do so, we re-coded the data set to indicate the presence or absence of a detainer in an inmate's file. Using the booking and release dates, we calculated the total number of days spent in Pierce County Jail and used this measure as the dependent variable in our regression model. Since the variable ``jail days'' is heavily skewed, this variable was logged for the regression analysis. As a result, the regression coefficients are interpreted as a percent change in the number of jail days attributable to each of the independent variables. We found a strong, statistically significant correlation between the presence of a detainer and length of stay.
+
+\subsection*{Predictor variables}
+
+In order to understand whether another factor other than the presence of a detainer might be leading to longer jail stays for this population, we built a regression model to enable the analysis of other predictor variables, including race, number of charges, seriousness of charges, and offense category. Where possible, we followed Beckett and Evans (2015) in identifying relevant variables and constructing them from the available data.
+
+\emph{Race.} We included this variable to test whether the difference in length of jail stays between detainered and non-detainered inmates was due to differences in the ways individuals of different races were treated. In our regression model, we used the racial categorizations included in the original dataset provided by Pierce County.
+
+\emph{Number of charges.} Each individual booked may be associated with multiple booking charges, so we included this variable in our model to ensure that the longer jail stays for detainered inmates did not reflect an underlying difference in the number of charges such individuals faced. We coded the number of charges for each booking by counting the number of charges for which a court cause number was assigned, so the number of charges refers to the number of criminal charges filed. The number of charges ranges from 0 to 20; again following Beckett and Evans, we use 10 charges as the maximum in the regression analysis.\footnote{As an additional test, we also ran regression analysis using the full range of charges from 0 to 20, with very similar results.}
+
+\emph{Charge type, seriousness, and offense type.} We considered it important to test variables that might explain longer jail stays by the severities or types of charges against by detainered defendants; in other words, we wanted to test the hypothesis that those targeted by ICE may face more or worse charges than the rest of the population, and hence stay longer in jail. In the original dataset provided by Pierce County, booking charges are not categorized by charge type (misdemeanor, felony, etc.), seriousness, or offense type. In order to control for these variables, we searched the Revised Code of Washington (RCW) for each of the 603 booking charges to determine how to categorize the charge.\footnote{Here our methodology differs significantly from that used by Beckett and Evans (2015), who were able to use charge categories and seriousness ranks as recorded by jail administrators. Because we had to construct these variables using additional research, it is possible that we have introduced errors.} We excluded from our analysis 379 records where we were unable to determine how to categorize the charge, and 244 records marked as entry errors.
+
+Each booking charge type was assigned a seriousness rank from 0 to 6, where 6-4 represents felonies (class A, B, and C, respectively), 3-2 represents gross and simple misdemeanors, 1 represents civil infractions (fines), and 0 represents ``other'' non-criminal administrative categories (for example, immigration holds). Bookings were assigned a seriousness rank based on the most serious charge associated with that booking. We excluded from our analysis 3455 records where the maximum seriousness for the booking was unknown or 0; largely cases involving community custody and probation violations. This category included 16 cases with ICE detainers; however, the exclusion of this category from our analysis did not significantly change our findings regarding the impact of ICE detainers.
+
+Offense category, included in our model as six binary variables, follows the categories used by Beckett and Evans: ``violent'', ``property'', ``drug'', ``public order'', ``sex'', and ``other''. These categories were hand-coded based on the charge description. Bookings were assigned an offense category based on the category of the most serious charge associated with that booking. The ``other'' category was excluded from analysis due to the decision to drop cases with 0 seriousness, as described above.
+
+\section*{Findings}
+
+\subsection*{ICE detainers and length of jail stay}
+
+In our sample, the maximum time spent in jail was \num{1314.5541667} days; the average time spent in jail was \num{27.1540268} days, and the median was \num{3.1878472} days. \num{68.630595} percent of bookings in our sample involved at least one felony booking charge, and \num{31.202238} percent involved only misdemeanor booking charges.
+
+The average jail stay for people subject to an ICE detainer was significantly longer than for those without detainers. People without detainers spent \num{26.8540937} days in jail on average (with a median jail stay of \num{3.1548611} days), while people with detainers spent an average of \num{73.6181331} days in jail (a median of \num{34.7673611} days). A t-test confirms that this difference is statistically significant at the $p < 0.001$ level.
+
+% table 2, felony/misdemeanor figures
+
+
+\begin{figure}[h]
+\caption{Mean jail days by ICE detainer status and booking charge category}
+\label{fig:DetainerChargeFigure}
+\centering
+\includegraphics[width=.77\textwidth]{MeanJailTime}
+\end{figure}
+
+\newcolumntype Y{S[group-four-digits=true,
+				   round-mode=places,
+				   round-precision=2,
+				   round-integer-to-decimal=true,
+				   per-mode=symbol]}
+
+\newcolumntype Z{S[group-four-digits=true,
+				   round-mode=places,
+				   round-precision=0,
+				   round-integer-to-decimal=false,
+				   per-mode=symbol]}
+
+\tabucolumn Y
+\tabucolumn Z
+
+\begin{table}[!ht]
+	\begin{center}
+		\caption{Mean jail days by ICE detainer status and booking charge category}
+		\label{tab:DetainerChargeTable}
+		\begin{tabu}{l*2{Y}Z}
+		\rowfont\bfseries
+	{Charge} & {No detainer} & {Detainer} & {\% increase} \\
+	\firsthline
+	Misdemeanor & 10.08\si{\day} & 24.49\si{\day} & 243.03\si{\percent} \\
+    Felony & 34.55\si{\day} & 86.87\si{\day} & 251.47\si{\percent} \\
+    \lasthline
+		\end{tabu}
+	\end{center}
+\end{table}
+
+This increase in jail time is true across charge types (see Figure \ref{fig:DetainerChargeFigure}, Table \ref{tab:DetainerChargeTable}). For detainered inmates whose most serious booking charge is a felony, the mean number of days spent in jail is more than two times greater than the average number of days spent by people with felony charges but no ICE detainer (\num{86.87} versus \num{34.55} days). For those booked with misdemeanors, the average number of jail days of detainered inmates is also more than twice that of those without an ICE detainer (\num{24.49} versus \num{10.08} days).
+
+These findings provide compelling evidence that ICE detainers significantly impact the amount of time inmates spend in jail. However it is possible that these differences stem from case and individual characteristics, rather than from ICE detainers themselves. We therefore used OLS regression techniques to isolate the unique impact of ICE detainers on jail stays.
+
+\subsection*{Regression results}
+
+We ran an Ordinary Least Squares (OLS) regression using the Python statsmodels package. Using logged jail days as the outcome variable, we examined the impact on jail stays of our predictor variables: race; gender; ICE detainer; the seriousness ranking of the most serious charge filed; the number of charges filed; and the offense type. The OLS regression results are shown in Table \ref{tab:RegressionResults}. Because the outcome variable is logged in this model, we have calculated the ``Impact'' of each predictor variable as a percent change in ``jail days'' for a one-unit change in each predictor variable.\footnote{We calculated the ``Impact'' using the standard formula for interpreting regression coefficients when the dependent variable is logged: $([100(e^{\beta 1}-1)])$.}
+
+% table 3, regression results
+
+
+\begin{table}
+\begin{ThreePartTable}
+  \newrobustcmd{\B}{\bfseries}
+  \begin{center}
+    \caption{OLS Regression Results of Logged Jail Days}
+    \label{tab:RegressionResults}
+    \begin{tabu} to \textwidth {lrlrrr}
+    \rowfont\bfseries
+      \thead[l]{} &
+      \thead[r]{Coef.} &
+      \thead[r]{} &
+      \thead[r]{Std. err.} & 
+      \thead[r]{95\% CI} & 
+      \thead[r]{Impact} \\
+      \hline
+      Jail days (Logged) & & & & & \\
+      ~~\makecell[l]{ICE detainer} & \num{1.317744818016} & *** & \num{0.136806559754601} & ( 1.05,  1.59) & \num{273.498879289242} \si{\percent} \\
+      Legal factors & & & & \\
+      ~~\makecell[l]{Seriousness rank} & \num{0.470611602222147} & *** & \num{0.0130957199962587} & ( 0.44,  0.50) & \num{60.0973052527106} \si{\percent} \\
+      ~~\makecell[l]{Number of charges} & \num{0.586153832184829} & *** & \num{0.00644082068014637} & ( 0.57,  0.60) & \num{79.7063299331816} \si{\percent} \\
+      ~~\makecell[l]{Drug offense} & \num{0.313441824738908} & *** & \num{0.0366533570441979} & ( 0.24,  0.39) & \num{36.8125869366986} \si{\percent} \\
+      ~~\makecell[l]{Sex offense} & \num{0.513442287536585} & *** & \num{0.0863070402523601} & ( 0.34,  0.68) & \num{67.1033483705353} \si{\percent} \\
+      ~~\makecell[l]{Property offense} & \num{-0.134809664597928} & *** & \num{0.0305409621190983} & (-0.19, -0.07) & \num{-12.6117773415313} \si{\percent} \\
+      ~~\makecell[l]{Violent offense} & \num{0.197379560476379} & *** & \num{0.0307436382769772} & ( 0.14,  0.26) & \num{21.8206335943056} \si{\percent} \\
+      Defendant attributes & & & & & \\
+      ~~\makecell[l]{Male} & \num{0.321056045423373} & *** & \num{0.0249810041956268} & ( 0.27,  0.37) & \num{37.8582841987702} \si{\percent} \\
+      ~~\makecell[l]{Black} & \num{0.127931267519202} & *** & \num{0.0259743942623799} & ( 0.08,  0.18) & \num{13.6474887274191} \si{\percent} \\
+      ~~\makecell[l]{Hispanic} & \num{-0.0804171955804565} & * & \num{0.0397667081713013} & (-0.16, -0.00) & \num{-7.72686933493011} \si{\percent} \\
+      ~~\makecell[l]{American Indian/ \cr Alaska Native} & \num{0.346912299574514} & *** & \num{0.062815785022335} & ( 0.22,  0.47) & \num{41.4692650782406} \si{\percent} \\
+      ~~\makecell[l]{Asian/ \cr Pacific Islander} & \num{-0.0256123164914788} &  & \num{0.0454132883999736} & (-0.11,  0.06) & \num{-2.52871035152201} \si{\percent} \\
+      ~~\makecell[l]{Unknown race} & \num{-0.429356205579609} &  & \num{0.232314019697093} & (-0.88,  0.03) & \num{-34.9071976313492} \si{\percent} \\
+      \makecell[l]{Intercept} & \num{-1.9133879274944} & *** & \num{0.0504101713205504} & (-2.01, -1.81) &  \\
+      \hline
+    \end{tabu}
+    \begin{tablenotes}
+    N = 29312. Adj. R-Squared = \num[round-precision=3]{0.3146047}. Reference categories: race = white; gender = female; offense = public order offenses. *$p <0.05$, **$p <0.01$, ***$p <0.001$ (two-tailed tests).
+	\end{tablenotes}
+  \end{center}
+\end{ThreePartTable}
+\end{table}
+
+Overall, we found that detainered inmates experienced jail stays \num{273.4988793} percent (with 95 percent confidence intervals of \num{185.6502031} percent to \num{388.3644797} percent) longer than inmates without detainers, when controlling for other factors including race, number of charges, type, and seriousness of charge. This disparity is the most important of our findings, for it reveals a dramatically unequal encounter with the justice system for people facing immigration enforcement. The data indicates that this is disparity is not ocurring by chance, or as a result of the nature or number of charges against them. \emph{Therefore, we conclude that Pierce County processes individuals subjected to immigration detainers differently than those without.}
+
+\subsection*{Why and how do ICE detainers impact jail time?}
+
+Of course, if Pierce County is not holding detainered inmates past their scheduled release date, this data doesn't tell us why or how they are still staying longer periods behind bars. But earlier research, such as Shahani (2010) and Guttin (2010), suggests that denial of bail may be the key reason.
+
+Our data set does offer some suggestions that bail may be a key factor. For example, our data shows that compared to the general population, very few detainered inmates are paying any bail. Among inmates without detainers, 5762 inmates, or \num{19.7843703}  percent, paid bail for at least one charge; among detainered inmates, only 3 inmates, or \num{1.5957447} percent, did. A t-test confirms that this difference is statistically significant at the $p < 0.001$ level---the rate of payment of bail for inmates with an ICE detainer is less than the expected result if these variables were not related.
+
+Unfortunately, due to the limitations of the data provided by Pierce County,\footnote{ Unfortunately, Pierce County Corrections told us that they were not able to give information on bail amount \emph{set} for each charge, only bail amounts \emph {paid} per charge.} we cannot establish whether bail is being denied outright by the courts, as Guttin (2010) found in Texas, or simply set too high for inmates to afford. Another likely factor involves decision-making by bail bonds companies, which often opt not to post bond for inmates with ICE detainers. Additionally, detainered inmates themselves may choose not to pay bail given the likelihood that they will lose their bail money or bond collateral if taken into custody by ICE upon release.
+
+Inmates with detainers are also much less likely to have charges released on personal recognizance. Among inmates without detainers, \num{11.0981208} percent of charges were released on personal recognizance, while for inmates with ICE detainers, only \num{4.8120301} percent of charges were released on personal recognizance. This is also consistent with previous research findings such as that of Beckett and Evans (2015).
+
+Since 2015, in fact, all versions of DHS detainer forms in use stipulate that ``This request arises from DHS authorities and should not impact decisions about the subject's bail, rehabilitation, parole, release, diversion, custody classification, work, quarter assignments, or other matters.'' In fact, the evidence presented here suggests that detainers provoke precisely the effect ICE admonishes against.
+
+\subsection*{Human rights implications}
+
+Of course, subjecting some inmates to longer incarcerations than others, for reasons extraneous to the criminal justice process, has significant human rights implications. Longer time behind bars creates greater disruptions for the inmate's family and community connections, and may result in the termination of employment or schooling. What's more, it also influences the outcomes at trial: \href{<https://www.hrw.org/report/2017/04/11/not-it-justice/how-californias-pretrial-detention-and-bail-system-unfairly>}{as Human Rights Watch writes}, ``People at liberty can help with their defense; they can go to work, go to school, attend a drug rehabilitation program or enroll in psychological counselling, all of which can show the judge there is no need to punish harshly; they appear in court showered and groomed, in their own clothes, not jail uniforms.'' (2017: 5) Unsurprisingly, studies have shown significant correlations between pre-trial detention and the probability of conviction (Leslie and Pope 2016, Stevenson 2018, Dobbie, Goldin, and Yang 2018), in part because defendants are able to secure counsel earlier, and to more successfully invoke their rights, when not detained.
+
+The research presented here suggests that inmates subjected to ICE detainers have a dramatically unequal experience of justice in Pierce County. The regression analysis presented here further indicates that this is not because these immigrants commit more crimes, or worse crimes, but because the way Pierce County chooses to handle detainers leaves them with profoundly diminished opportunities to defend their rights in the criminal justice system---a system which should be blind to their immigration status. 
+
+Even if inmates are staying in jail longer as a result of their own choice to forsake the opportunity for bail, a possibility we cannot dismiss, this choice is likely driven by their knowledge that upon release, Pierce County will notify ICE. In other words, \textbf{while Pierce County's policies purport to avoid Constitutional problems by declining to hold inmates beyond their scheduled release date, by collaborating with ICE in other forms Pierce's policies lead to longer detentions for certain inmates than others, defrauding the premise of equal protection before the law.}
+
+Aside from these concern for the rights of detainered inmates themselves, there are other reasons this matters. Their family members, including many U.S. citizen children, are deeply affected by their prolonged incarceration; the communities where they work and worship, the organizations in which they participate, all are affected by their absence. Lastly, the significant cost of their prolonged detention is not borne by the federal government, but by the taxpayers of Pierce County. During the period examined here, in fact, Pierce County spent more than \$\num[round-precision=2,round-mode=places,round-integer-to-decimal, ]{1107744} to hold the 188 inmates with ICE detainers longer than they would have held them without detainers.\footnote{Pierce County's total cost per inmate is \$\num{126} per day, according to a 2014 \href{<https://ofm.wa.gov/sites/default/files/public/legacy/reports/Correctional_Needs_and_Costs_Study2014.pdf>}{analysis published by the Washington State Office of Financial Management}. Based on our finding that inmates with detainers, on average, spent \num{46.7640395} more days in jail than inmates without detainers (see above, ICE Detainers and Length of Jail Stay), we estimate that the additional cost to Pierce County of holding an inmate with a detainer is approximately \$\num[round-precision=2,round-mode=places,round-integer-to-decimal]{5892.26}. Counting only the 188 inmates with ICE detainers in this study, the total cost ascends to \$\num[round-precision=2,round-mode=places,round-integer-to-decimal]{1107744} over what it would cost the county if they declined these voluntary detainer requests.} Pierce County has no legal obligation to cover these additional costs, and they yield no public safety benefit for County taxpayers.
+
+\section*{Conclusions, recommendations, and future research}
+
+This research documents that in Pierce County today, inmates with detainers experience justice in a dramatically different way than those without---\emph{not} because their cases involve tougher charges, but because of the specific way Pierce County processes ICE detainers. To restate the findings explained above: according to our regression model, in Pierce County today, a hypothetical Hispanic male charged with 2 counts, the most serious of which is a class C felony for a public order offense, would be expected to be held for about 4 days. If subjected to a detainer, the same person would be expected to be held for 15 days.
+
+In the wake of \emph{Clackamas}, many Washington counties, including Pierce, only hold detainered inmates after their release date in cases where ICE's request is accompanied by a court order or judicial warrant. This is a good thing, inasmuch as it ensures that any prolonged detention at ICE's request is only undertaken with probable cause. Yet this research suggests that such steps still fall short of addressing fundamental inequities introduced into the justice system by the ways local law enforcement collaborates with ICE.
+
+What actions might Pierce County take differently to avoid dispensing unequal justice to immigrants? Our research findings point to some recommendations:
+
+\begin{enumerate}
+  \item Pierce County should ensure that judges do not take immigration detainers into consideration when making decisions regarding bond or sentencing.
+  \item Pierce County should not register the detainer in its jail records system available to the public or to bail bonds services. At present, the presence of an immigration hold on an inmate's file is publicly accessible via the online jail roster. This may contribute to difficulties accessing bond.
+  \item To protect the rights of persons in Pierce County custody, the County should limit jailhouse interviews to cases where ICE has obtained a court order, and in all cases ensure that jail inmates are adequately informed of their rights before ICE agents are granted access. This is important because in many cases, ICE agents use these interviews to obtain information necessary to file a detainer---and from the detainer flow the unequal justice processes discussed here.
+  \item Pierce County should take steps to ensure that its inmates' information does not populate databases to which ICE has access.
+  \item Pierce County should stop notifying ICE of pending releases unless the detainer requesting notification is accompanied by a judicial warrant. 
+\end{enumerate}
+
+While most of the discussion to date has focused on whether or not jails honor detainers, this research suggests that if we are concerned about equal justice, we need to look at how jails process detainers in ways that limit the rights of the accused. Future research is needed: this report's methods could be refined with a more granular coding of booking charges and analysis of other defendant attributes, such as country of origin. Other topics for further investigation include quantitative comparisons with other jurisdictions in Washington state and elsewhere, analysis of the effectiveness of policy recommendations, and a more detailed accounting of the costs associated with honoring immigration detainers; and qualitative research such as interviews with people involved on both sides of the justice system, not least those inmates who have themselves been subject to ICE detainers.
+
+\newpage
+\section*{Acknowledgements}
+
+We are grateful to many people who assisted the production of this report, including but not limited to: Katherine Beckett and Heather Evans for their work on the intersections of criminal and immigration law in King County, which provided the inspiration and model for this research; Corinne Mar, who shared her expertise in statistical analysis; Patrick Ball and colleagues at the \href{https://hrdag.org/}{Human Rights Data Analysis Group} for developing the ``Principled Data Processing'' framework and tools used to produce this report; Ann Benson and her colleagues at the Washington Defenders Association, who helped us to interpret our findings and suggested policy recommendations; University of Washington Center for Human Rights student researcher Nick DeMuro, who painstakingly reviewed hundreds of inmate booking sheets and other public records; Pierce County public defender Mary Kay High, who provided on-the-ground context for our findings; and the Pierce County public records officers who provided us with the data used for this report.
+
+\section*{References}
+
+\raggedright
+
+Beckett, Katherine and Heather Evans. ``Crimmigration at the Local Level: Criminal Justice Processes in the Shadow of Deportation.'' Law and Society Review, Volume 49, Issue1. March 2015. Pages 241-277. \url{https://onlinelibrary.wiley.com/doi/abs/10.1111/lasr.12120}
+
+\vspace{4mm}
+
+Dobbie, Will, Jacob Goldin and Crystal S. Yang. ``The Effects of Pretrial Detention on Conviction, Future Crime, and Employment: Evidence from Randomly Assigned Judges.'' American Economic Review. Vol. 108, No. 2, February 2018. Pages 201-40. \url{https://www.aeaweb.org/articles?id=10.1257/aer.20161503}
+
+\vspace{4mm}
+
+Guttin, Andrea. ``The Criminal Alien Program: Immigration Enforcement in Travis County, Texas.'' Immigration Policy Center, February 2010. \newline \url{https://repositories.lib.utexas.edu/bitstream/handle/2152/15143/ICE_TravisCounty.pdf?sequence=2}
+
+\vspace{4mm}
+
+Human Rights Watch. 2018. ``‘Not in it for Justice': How California's Pretrial Detention and Bail System Unfairly Punishes Poor People.'' \url{https://www.hrw.org/report/2017/04/11/not-it-justice/how-californias-pretrial-detention-and-bail-system-unfairly}
+
+\vspace{4mm}
+
+Leslie, Emily and Nelson G. Pope. ``The Unintended Impact of Pretrial Detention on Case Outcomes: Evidence from New York City Arraignments.'' The Journal of Law and Economics Volume 60, Number 3. August 2017. Pages 529-557. \url{https://www.journals.uchicago.edu/doi/abs/10.1086/695285}
+
+\vspace{4mm}
+
+Office of Financial Management. ``Analysis of Statewide Adult Correctional Needs and Costs.'' November 6, 2014. \url{https://ofm.wa.gov/sites/default/files/public/legacy/reports/Correctional_Needs_and_Costs_Study2014.pdf}
+
+\vspace{4mm}
+
+Shahani, Aarti. ``New York City Enforcement of Immigration Detainers - Preliminary Findings.'' Justice Strategies, October 2010. \url{https://immigrantjustice.org/sites/default/files/NYC%20Detainer%20Report.pdf}
+
+\vspace{4mm}
+
+Stevenson, Megan T. ``Distortion of Justice: How the Inability to Pay Bail Affects Case Outcomes.'' The Journal of Law, Economics, and Organization. September 2018. \url{https://doi.org/10.1093/jleo/ewy019}
+
+\vspace{4mm}
+
+TRAC Immigration, Syracuse University. 2016. ``The Role of ICE Detainers Under Bush and Obama.'' \url{http://trac.syr.edu/immigration/reports/458/}
+
+\vspace{4mm}
+
+TRAC Immigration, Syracuse University. 2018a. ``Immigration and Customs Enforcement Arrests: ICE Data through May 2018.'' \url{http://trac.syr.edu/phptools/immigration/apprehend/}
+
+\vspace{4mm}
+
+TRAC Immigration, Syracuse University. 2018b. ``Latest Data: Immigration and Customs Enforcement Detainers. ICE Data through April 2018.'' \url{http://trac.syr.edu/phptools/immigration/detain/}
+
+\end{document}

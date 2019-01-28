@@ -1,0 +1,14 @@
+end_bookings: 29312
+end_hold_count: 188
+end_length: 70803
+entry_error_dropped: 244
+max_charge_other_dropped: 3454
+null_seriousness_dropped_bookings: 1
+null_seriousness_dropped_recs: 1
+pd_version: 0.23.4
+start_bookings: 32925
+start_hold_count: 204
+start_length: 75008
+sys_version: "3.7.1 | packaged by conda-forge | (default, Nov 13 2018, 10:30:07) \n\
+  [Clang 4.0.1 (tags/RELEASE_401/final)]"
+unknown_category_dropped: 379

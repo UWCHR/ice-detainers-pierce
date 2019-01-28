@@ -1,0 +1,99 @@
+booking_charge_desc,booking_charge_txt,category,type
+FUGITIVE,AGG BTRY CHILD,class A felony,violent
+FUGITIVE,AGG VEH THEFT,class B felony,property
+FUGITIVE,ARMED ROB,class A felony,violent
+FUGITIVE,ARMED ROBBERY,class A felony,violent
+FUGITIVE,ASLT,class A felony,violent
+FUGITIVE,ASLT 2 ON L.E.O,class B felony,violent
+FUGITIVE,ASLT 3,class C felony,violent
+FUGITIVE,ASLT 4/RECK DRIVING,gross misdemeanor,violent
+FUGITIVE,ASLT W/FIREARM,class A felony,violent
+FUGITIVE,ASLT WEAPON.DV,class A felony,violent
+FUGITIVE,ASLT/CRIM MISTREAT,class B felony,violent
+FUGITIVE,AST. 2/STRANGULATIO,class B felony,violent
+FUGITIVE,ATT MURDER,class A felony,violent
+FUGITIVE,BURG,class A felony,property
+FUGITIVE,BURG 1,class A felony,property
+FUGITIVE,BURG 1 FEL BATTERY,class A felony,property
+FUGITIVE,BURG 1/THEFT 2ND,class A felony,property
+FUGITIVE,BURG 2,class B felony,property
+FUGITIVE,BURG.,class A felony,property
+FUGITIVE,BURGLARY,class A felony,property
+FUGITIVE,BURGLARY 1,class A felony,property
+FUGITIVE,CHECK FRAUD,class C felony,public order
+FUGITIVE,CHILD NEGLECT,class B felony,public order
+FUGITIVE,DUI,gross misdemeanor,public order
+FUGITIVE,DUI W/CHILD,gross misdemeanor,public order
+FUGITIVE,DUI/ASSAULT,gross misdemeanor,public order
+FUGITIVE,"DWI, UPCS",gross misdemeanor,public order
+FUGITIVE,ESCAPE,class B felony,public order
+FUGITIVE,FALSE ID,misdemeanor,public order
+FUGITIVE,FEL POSS F/A,class B felony,public order
+FUGITIVE,FORGERY,class C felony,public order
+FUGITIVE,FORGERY/FPO,class C felony,public order
+FUGITIVE,FTA GEN FELONY,class C felony,public order
+FUGITIVE,FTA RETURN DATE,class C felony,public order
+FUGITIVE,FTR SO,class C felony,sex
+FUGITIVE,FTRSO,class C felony,sex
+FUGITIVE,GRAND THEFT,class B felony,property
+FUGITIVE,ID THEFT,class B felony,public order
+FUGITIVE,ID THFT 2,class C felony,public order
+FUGITIVE,KIDNAP 1,class A felony,violent
+FUGITIVE,LARCENY,class B felony,property
+FUGITIVE,MATERIAL WITNESS,other,other
+FUGITIVE,MERCED CALIF,other,other
+FUGITIVE,METH,class B felony,drug
+FUGITIVE,MONTANA,other,other
+FUGITIVE,NON-SUPPORT,gross misdemeanor,public order
+FUGITIVE,NY DOC,other,other
+FUGITIVE,OBSTRUCT,gross misdemeanor,public order
+FUGITIVE,OREGON,other,other
+FUGITIVE,PAROLE VIOLATION,other,other
+FUGITIVE,PAROLE//FTRASO,class C felony,sex
+FUGITIVE,PETTY THEFT,misdemeanor,property
+FUGITIVE,POSS METH,class B felony,drug
+FUGITIVE,POSS. METH,class B felony,drug
+FUGITIVE,PRO VIOL,other,other
+FUGITIVE,PROB VIO WEAPONS,other,other
+FUGITIVE,PROB VIOL,other,other
+FUGITIVE,PROB VIOL/ASSAULT,other,other
+FUGITIVE,PROB VIOL/DUI,other,other
+FUGITIVE,PROB VIOL/PSP,other,other
+FUGITIVE,PROBATION VIOLATION,other,other
+FUGITIVE,PV//OREGON DOC,other,other
+FUGITIVE,RAPE,class A felony,sex
+FUGITIVE,RAPE 1,class A felony,sex
+FUGITIVE,RETAIL THEFT,class B felony,property
+FUGITIVE,ROB/BATTERY PROB,class A felony,violent
+FUGITIVE,ROB/KIDNAP,class A felony,violent
+FUGITIVE,ROBBERY,class A felony,violent
+FUGITIVE,ROBBERY 1,class A felony,violent
+FUGITIVE,ROBBERY/BATTERY,class A felony,violent
+FUGITIVE,SEX ABUSE/CHILD 2,class B felony,sex
+FUGITIVE,SEX ASSAULT,class A felony,sex
+FUGITIVE,SEX MISCONDUCT 3,gross misdemeanor,sex
+FUGITIVE,SEX OFFENDER REG.,class C felony,sex
+FUGITIVE,SEX PENT W/FORCE,class A felony,sex
+FUGITIVE,STALKING,gross misdemeanor,public order
+FUGITIVE,STOLEN PROP,class B felony,property
+FUGITIVE,STOLEN VEHICLE,class B felony,property
+FUGITIVE,THEFT,class B felony,property
+FUGITIVE,THEFT 1,class B felony,property
+FUGITIVE,THEFT 1 (2 CTS),class B felony,property
+FUGITIVE,THEFT 1 / THEFT 1,class B felony,property
+FUGITIVE,THEFT OF FIREARM,class B felony,property
+FUGITIVE,THEFT/B&E/FRAUD,class B felony,property
+FUGITIVE,THFT 1 (2 CTS)/THFT 2,class B felony,property
+FUGITIVE,THFT BY SHPLFTING,gross misdemeanor,property
+FUGITIVE,TRAFFICK CON SUB,class C felony,drug
+FUGITIVE,UDCS,class C felony,drug
+FUGITIVE,UIBC,class C felony,public order
+FUGITIVE,UPCS,class C felony,drug
+FUGITIVE,UPCS / DRUG PARA,class C felony,drug
+FUGITIVE,UPCS W/INTENT,class C felony,drug
+FUGITIVE,UPCS/HEROIN,class C felony,drug
+FUGITIVE,UPCS/THEFT,class C felony,drug
+FUGITIVE,UPCS/THEFT 3,class C felony,drug
+FUGITIVE,UPCS/UDCS,class C felony,drug
+FUGITIVE,USOF/MENACE,other,other
+FUGITIVE,,unknown,unknown

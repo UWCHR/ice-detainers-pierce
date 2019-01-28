@@ -1,0 +1,8 @@
+dropped_duplicates: 123
+pd_version: 0.23.4
+records_in: 123
+records_out: 123
+sys_version: "3.7.1 | packaged by conda-forge | (default, Nov 13 2018, 10:30:07) \n\
+  [Clang 4.0.1 (tags/RELEASE_401/final)]"
+unique_booking_ids_in: 32925
+unique_booking_ids_out: 32925

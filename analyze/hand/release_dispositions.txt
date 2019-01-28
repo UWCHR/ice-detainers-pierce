@@ -1,0 +1,54 @@
+Administrative Booking
+Appearance Bond
+Bail Bond
+Balance of Sentence Suspended
+Breaking the Cycle
+Cancel Detainer
+Cash Bail
+Check
+Compliance Release
+Court Order
+Credit for Time Served
+DEA
+Deferred Sentence
+DETOX CENTER
+Dismissed
+Drug Court
+Escape
+Escape Breaking the Cycle(BTC)
+Extradition
+FBI
+Fine Paid
+Immigration
+Medical Dismissal
+Medical Examiner
+Mental Health Professional
+Mini-Chain
+NCF Dist
+NCF Final
+NCF Sup
+NCF TacM
+NCF, LAKEWOOD
+NCF, Pending Inv
+No Charges Filed
+No Prob Cause
+Not Guilty - Insanity
+Not Guilty Verdict
+PDC
+Police Department
+PR
+Probation/Parole Officer
+Quashed
+Release without charge
+Remann Hall
+Self
+Sheriff's Office
+SIP
+Suspended Sentence
+Teletype Release
+Time Payments
+Time Served
+Time Served, Weekend
+US Marshall
+Western State Hospital
+WSI Chain

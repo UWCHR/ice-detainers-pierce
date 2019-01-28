@@ -32,7 +32,7 @@ output/pierce-report.pdf: \
 		output/pierce-report.tex
 	pdflatex output/pierce-report.tex
 	pdflatex output/pierce-report.tex # Compiling twice to get figure labels to display
-	-mv pierce-report.pdf output/UWCHR-Pierce-County-ICE-Detainers.pdf
+	-mv pierce-report.pdf output/UWCHR-Pierce-County-ICE-Detainers-FINAL.pdf
 	-rm pierce-report.*
 
 

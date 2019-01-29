@@ -22,7 +22,7 @@ Tasks in this project are designed to be executed using the recursive Make tool 
 
 `get_variables/` - Sets up dummy variables for analysis.
 
-`charges/` - Merges in hand-coded type and seriousness values for booking charges based on the [Revised Code of Washington (RCW)](https://apps.leg.wa.gov/rcw/), and determines type and seriousness of the maximum charge for each booking. Bookings of type 'other' are dropped.
+`charges/` - Merges in hand-coded type and seriousness values for booking charges based on the [Revised Code of Washington (RCW)](https://apps.leg.wa.gov/rcw/), and determines type and seriousness of the maximum charge for each booking. Bookings of with maximum charge type 'other' are dropped.
 
 `bail/` - Merges in bail payment data and creates a dummy variable for whether any bail was posted for each booking.
 

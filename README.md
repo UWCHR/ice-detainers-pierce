@@ -30,4 +30,4 @@ Tasks in this project are designed to be executed using the recursive Make tool 
 
 ## Notes
 
-We note that there are many improvements to make here in terms of code syntax and cleanliness, as well as implementing additional LaTeX processing of references and other aspects of the final report. We hope to improve on these aspects of this project for future publication.
+We note that there are many improvements to make here in terms of code syntax and cleanliness, testing, and migration of setup and analysis tasks to functions; as well as implementing additional LaTeX processing of references and other aspects of the final report. We hope to improve on these aspects of this project for future publication.

@@ -1,8 +1,10 @@
 # Pierce County ICE Detainer Data
 
-Author: [@philneff](https://github.com/philneff) philneff@uw.edu
+Author: [@philneff](https://github.com/philneff)
 
-Date: 2019-01-28
+Contact: philneff@uw.edu
+
+Date: 2019-01-30
 
 License: GPL v2 or later
 
